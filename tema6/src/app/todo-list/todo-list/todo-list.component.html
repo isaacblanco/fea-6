@@ -1,0 +1,19 @@
+<div class="container">
+    <h2>Listado de Tareas</h2>
+    <div class="row">
+      <div class="col-md-8 offset-md-2">
+        <ul class="list-group">
+          <!--<li *ngFor="let task of tasks; " class="list-group-item">-->
+          <li *ngFor="let task of tasks; trackBy: trackById" class="list-group-item">
+            <h5>{{ task.title }}</h5>
+            <p>{{ task.description }}</p>
+            <p><strong>Estado:</strong> {{ task.complete ? 'Completa' : 'Pendiente' }}</p>
+            <p><strong>Fecha de Creación:</strong> {{ task.creation_date }}</p>
+            <button (click)="completeTask(task.id)" class="btn btn-sm btn-primary">Complete task</button>
+          </li>
+          <li *ngIf="tasks.length === 0" class="list-group-item text-muted">No hay tareas disponibles.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  

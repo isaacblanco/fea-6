@@ -1,0 +1,26 @@
+<div class="container mt-5">
+    <p>Component 1 module A</p>
+
+    <!-- Control flow -->
+  
+    <div *ngIf="showElement">Hola</div>
+
+    <span *ngFor="let item of items">{{item}} </span>
+
+
+    @if(showElement) {
+        <div class="mt-5">
+            Hola nuevo if
+        </div>
+    }
+    
+    <div class="mt-5">
+        @for(item of items; track $index){
+            <span>v2 {{item}}</span>
+        }
+    </div>
+    
+    
+
+
+</div>

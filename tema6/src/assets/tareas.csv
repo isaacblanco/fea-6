@@ -1,0 +1,1001 @@
+id,title,description,complete,creation_date
+1,Pagar las facturas,Llevar el coche al taller para revisión,True,2024-02-11 18:52:25
+2,Cocinar la cena,Programa una cita para el chequeo anual,True,2024-02-15 18:52:25
+3,Cocinar la cena,"Limpiar la sala, cocina y baño",False,2023-09-08 18:52:25
+4,Enviar correo a Juan,Pagar las facturas de servicios públicos,True,2023-09-17 18:52:25
+5,Enviar correo a Juan,Llevar el coche al taller para revisión,True,2023-11-16 18:52:25
+6,Enviar correo a Juan,Revisar las últimas actualizaciones de Angular,False,2024-05-30 18:52:25
+7,Estudiar Angular,Pagar las facturas de servicios públicos,False,2023-11-05 18:52:25
+8,Revisar el coche,Pagar las facturas de servicios públicos,True,2023-11-25 18:52:25
+9,Pagar las facturas,Enviar un correo electrónico sobre el proyecto,False,2023-11-08 18:52:25
+10,Limpiar la casa,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-06-10 18:52:25
+11,Pagar las facturas,"Limpiar la sala, cocina y baño",True,2024-01-12 18:52:25
+12,Estudiar Angular,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-12-02 18:52:25
+13,Hacer ejercicio,Programa una cita para el chequeo anual,False,2024-03-26 18:52:25
+14,Cocinar la cena,Compra los artículos de la lista,True,2024-02-12 18:52:25
+15,Leer un libro,Pagar las facturas de servicios públicos,True,2023-08-29 18:52:25
+16,Estudiar Angular,Compra los artículos de la lista,True,2023-10-15 18:52:25
+17,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,True,2023-06-29 18:52:25
+18,Ir al supermercado,Programa una cita para el chequeo anual,True,2023-09-21 18:52:25
+19,Revisar el coche,Programa una cita para el chequeo anual,False,2024-02-06 18:52:25
+20,Enviar correo a Juan,"Limpiar la sala, cocina y baño",False,2023-07-11 18:52:25
+21,Pagar las facturas,Llevar el coche al taller para revisión,False,2023-11-13 18:52:25
+22,Pagar las facturas,Revisar las últimas actualizaciones de Angular,False,2023-07-07 18:52:25
+23,Revisar el coche,Leer al menos un capítulo del libro,True,2023-07-04 18:52:25
+24,Limpiar la casa,Revisar las últimas actualizaciones de Angular,False,2023-07-23 18:52:25
+25,Revisar el coche,Enviar un correo electrónico sobre el proyecto,False,2024-02-24 18:52:25
+26,Hacer ejercicio,Preparar una cena saludable,True,2024-06-11 18:52:25
+27,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-11-19 18:52:25
+28,Estudiar Angular,Preparar una cena saludable,True,2024-06-09 18:52:25
+29,Leer un libro,Enviar un correo electrónico sobre el proyecto,False,2024-04-10 18:52:25
+30,Cocinar la cena,Llevar el coche al taller para revisión,False,2024-03-08 18:52:25
+31,Llamar al médico,Preparar una cena saludable,True,2024-01-25 18:52:25
+32,Limpiar la casa,Compra los artículos de la lista,True,2023-09-12 18:52:25
+33,Ir al supermercado,"Limpiar la sala, cocina y baño",True,2024-04-27 18:52:25
+34,Llamar al médico,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-06-12 18:52:25
+35,Llamar al médico,Leer al menos un capítulo del libro,False,2024-02-04 18:52:25
+36,Leer un libro,"Limpiar la sala, cocina y baño",False,2024-04-23 18:52:25
+37,Estudiar Angular,Preparar una cena saludable,True,2024-06-02 18:52:25
+38,Llamar al médico,Revisar las últimas actualizaciones de Angular,True,2024-02-21 18:52:25
+39,Estudiar Angular,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-03-23 18:52:25
+40,Estudiar Angular,Preparar una cena saludable,False,2024-03-27 18:52:25
+41,Leer un libro,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-06-26 18:52:25
+42,Cocinar la cena,Llevar el coche al taller para revisión,False,2024-03-27 18:52:25
+43,Limpiar la casa,Programa una cita para el chequeo anual,True,2024-04-13 18:52:25
+44,Pagar las facturas,Pagar las facturas de servicios públicos,False,2023-06-18 18:52:25
+45,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,True,2023-08-09 18:52:25
+46,Limpiar la casa,Programa una cita para el chequeo anual,False,2023-10-12 18:52:25
+47,Cocinar la cena,Enviar un correo electrónico sobre el proyecto,False,2023-08-04 18:52:25
+48,Limpiar la casa,Llevar el coche al taller para revisión,True,2024-04-30 18:52:25
+49,Estudiar Angular,Compra los artículos de la lista,True,2024-02-23 18:52:25
+50,Revisar el coche,Revisar las últimas actualizaciones de Angular,True,2023-09-06 18:52:25
+51,Hacer ejercicio,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-02-18 18:52:25
+52,Limpiar la casa,Llevar el coche al taller para revisión,True,2023-08-16 18:52:25
+53,Estudiar Angular,Llevar el coche al taller para revisión,True,2024-06-06 18:52:25
+54,Llamar al médico,Preparar una cena saludable,True,2024-02-13 18:52:25
+55,Cocinar la cena,Leer al menos un capítulo del libro,True,2023-09-26 18:52:25
+56,Leer un libro,"Limpiar la sala, cocina y baño",True,2023-08-10 18:52:25
+57,Estudiar Angular,Preparar una cena saludable,True,2023-07-26 18:52:25
+58,Ir al supermercado,Preparar una cena saludable,False,2024-05-08 18:52:25
+59,Llamar al médico,Llevar el coche al taller para revisión,False,2024-01-14 18:52:25
+60,Leer un libro,Preparar una cena saludable,True,2023-10-29 18:52:25
+61,Cocinar la cena,Compra los artículos de la lista,True,2024-04-07 18:52:25
+62,Pagar las facturas,Enviar un correo electrónico sobre el proyecto,True,2024-04-28 18:52:25
+63,Llamar al médico,Pagar las facturas de servicios públicos,False,2023-09-12 18:52:25
+64,Enviar correo a Juan,Preparar una cena saludable,False,2023-08-02 18:52:25
+65,Estudiar Angular,Llevar el coche al taller para revisión,True,2023-12-28 18:52:25
+66,Hacer ejercicio,Preparar una cena saludable,False,2023-08-31 18:52:25
+67,Hacer ejercicio,Compra los artículos de la lista,False,2023-08-06 18:52:25
+68,Enviar correo a Juan,Pagar las facturas de servicios públicos,True,2023-07-01 18:52:25
+69,Limpiar la casa,Preparar una cena saludable,True,2023-10-02 18:52:25
+70,Revisar el coche,Revisar las últimas actualizaciones de Angular,True,2023-09-12 18:52:25
+71,Hacer ejercicio,Programa una cita para el chequeo anual,False,2023-08-28 18:52:25
+72,Llamar al médico,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-09-13 18:52:25
+73,Ir al supermercado,Enviar un correo electrónico sobre el proyecto,True,2024-05-16 18:52:25
+74,Limpiar la casa,Llevar el coche al taller para revisión,True,2023-12-07 18:52:25
+75,Llamar al médico,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-02-01 18:52:25
+76,Cocinar la cena,"Limpiar la sala, cocina y baño",False,2024-01-17 18:52:25
+77,Ir al supermercado,"Limpiar la sala, cocina y baño",True,2024-06-07 18:52:25
+78,Limpiar la casa,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-04-21 18:52:25
+79,Llamar al médico,Revisar las últimas actualizaciones de Angular,False,2024-02-01 18:52:25
+80,Hacer ejercicio,Llevar el coche al taller para revisión,False,2023-06-22 18:52:25
+81,Estudiar Angular,Pagar las facturas de servicios públicos,False,2023-09-04 18:52:25
+82,Cocinar la cena,Revisar las últimas actualizaciones de Angular,False,2023-07-24 18:52:25
+83,Leer un libro,"Limpiar la sala, cocina y baño",True,2023-07-15 18:52:25
+84,Leer un libro,Llevar el coche al taller para revisión,True,2023-08-23 18:52:25
+85,Limpiar la casa,Revisar las últimas actualizaciones de Angular,False,2024-03-31 18:52:25
+86,Pagar las facturas,Llevar el coche al taller para revisión,True,2023-08-03 18:52:25
+87,Pagar las facturas,Leer al menos un capítulo del libro,False,2024-05-20 18:52:25
+88,Pagar las facturas,Pagar las facturas de servicios públicos,True,2024-03-07 18:52:25
+89,Limpiar la casa,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-12-24 18:52:25
+90,Estudiar Angular,Programa una cita para el chequeo anual,False,2023-12-03 18:52:25
+91,Leer un libro,"Limpiar la sala, cocina y baño",True,2023-08-17 18:52:25
+92,Pagar las facturas,Programa una cita para el chequeo anual,False,2023-09-15 18:52:25
+93,Estudiar Angular,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-04-03 18:52:25
+94,Llamar al médico,Leer al menos un capítulo del libro,True,2023-08-02 18:52:25
+95,Leer un libro,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-08-31 18:52:25
+96,Limpiar la casa,Llevar el coche al taller para revisión,False,2023-09-18 18:52:25
+97,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-05-19 18:52:25
+98,Revisar el coche,Preparar una cena saludable,True,2024-04-30 18:52:25
+99,Revisar el coche,"Limpiar la sala, cocina y baño",False,2024-04-29 18:52:25
+100,Enviar correo a Juan,Leer al menos un capítulo del libro,True,2024-01-31 18:52:25
+101,Limpiar la casa,"Limpiar la sala, cocina y baño",False,2024-01-14 18:52:25
+102,Revisar el coche,Compra los artículos de la lista,True,2024-01-20 18:52:25
+103,Llamar al médico,Programa una cita para el chequeo anual,True,2023-10-31 18:52:25
+104,Ir al supermercado,Llevar el coche al taller para revisión,True,2023-10-02 18:52:25
+105,Hacer ejercicio,Preparar una cena saludable,True,2023-08-15 18:52:25
+106,Enviar correo a Juan,"Limpiar la sala, cocina y baño",True,2023-11-19 18:52:25
+107,Ir al supermercado,Programa una cita para el chequeo anual,True,2023-07-24 18:52:25
+108,Leer un libro,"Limpiar la sala, cocina y baño",False,2024-02-17 18:52:25
+109,Llamar al médico,Llevar el coche al taller para revisión,False,2023-11-05 18:52:25
+110,Limpiar la casa,Enviar un correo electrónico sobre el proyecto,False,2023-12-04 18:52:25
+111,Leer un libro,Revisar las últimas actualizaciones de Angular,True,2023-09-20 18:52:25
+112,Enviar correo a Juan,Leer al menos un capítulo del libro,True,2024-05-26 18:52:25
+113,Hacer ejercicio,Revisar las últimas actualizaciones de Angular,False,2023-12-16 18:52:25
+114,Pagar las facturas,Pagar las facturas de servicios públicos,True,2024-02-03 18:52:25
+115,Leer un libro,Programa una cita para el chequeo anual,False,2023-08-03 18:52:25
+116,Cocinar la cena,Leer al menos un capítulo del libro,True,2024-03-26 18:52:25
+117,Ir al supermercado,Revisar las últimas actualizaciones de Angular,False,2023-06-15 18:52:25
+118,Leer un libro,Compra los artículos de la lista,False,2023-11-20 18:52:25
+119,Ir al supermercado,Compra los artículos de la lista,True,2023-08-13 18:52:25
+120,Llamar al médico,"Limpiar la sala, cocina y baño",False,2024-03-07 18:52:25
+121,Hacer ejercicio,"Limpiar la sala, cocina y baño",False,2023-08-16 18:52:25
+122,Enviar correo a Juan,Programa una cita para el chequeo anual,True,2024-05-23 18:52:25
+123,Cocinar la cena,Llevar el coche al taller para revisión,True,2023-08-17 18:52:25
+124,Leer un libro,Revisar las últimas actualizaciones de Angular,False,2023-07-27 18:52:25
+125,Pagar las facturas,Revisar las últimas actualizaciones de Angular,True,2024-04-13 18:52:25
+126,Leer un libro,Enviar un correo electrónico sobre el proyecto,False,2023-11-08 18:52:25
+127,Ir al supermercado,Programa una cita para el chequeo anual,True,2024-06-03 18:52:25
+128,Hacer ejercicio,Preparar una cena saludable,True,2023-06-27 18:52:25
+129,Cocinar la cena,Pagar las facturas de servicios públicos,True,2023-11-07 18:52:25
+130,Cocinar la cena,Compra los artículos de la lista,True,2023-08-10 18:52:25
+131,Limpiar la casa,Programa una cita para el chequeo anual,False,2023-08-02 18:52:25
+132,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-04-23 18:52:25
+133,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-08-21 18:52:25
+134,Leer un libro,Pagar las facturas de servicios públicos,False,2023-07-25 18:52:25
+135,Hacer ejercicio,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-02-20 18:52:25
+136,Limpiar la casa,Preparar una cena saludable,True,2024-04-25 18:52:25
+137,Enviar correo a Juan,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-04-01 18:52:25
+138,Ir al supermercado,"Limpiar la sala, cocina y baño",True,2024-04-14 18:52:25
+139,Llamar al médico,Pagar las facturas de servicios públicos,False,2024-03-11 18:52:25
+140,Cocinar la cena,Programa una cita para el chequeo anual,True,2023-09-11 18:52:25
+141,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-10-17 18:52:25
+142,Limpiar la casa,Enviar un correo electrónico sobre el proyecto,True,2023-09-12 18:52:25
+143,Llamar al médico,Leer al menos un capítulo del libro,True,2024-01-22 18:52:25
+144,Cocinar la cena,Compra los artículos de la lista,True,2024-04-11 18:52:25
+145,Hacer ejercicio,Llevar el coche al taller para revisión,False,2024-05-14 18:52:25
+146,Leer un libro,Revisar las últimas actualizaciones de Angular,False,2023-12-25 18:52:25
+147,Estudiar Angular,Llevar el coche al taller para revisión,True,2024-01-16 18:52:25
+148,Leer un libro,Enviar un correo electrónico sobre el proyecto,False,2023-09-24 18:52:25
+149,Llamar al médico,Revisar las últimas actualizaciones de Angular,False,2023-08-08 18:52:25
+150,Enviar correo a Juan,"Limpiar la sala, cocina y baño",True,2023-07-29 18:52:25
+151,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,False,2024-02-19 18:52:25
+152,Revisar el coche,Enviar un correo electrónico sobre el proyecto,False,2024-05-14 18:52:25
+153,Limpiar la casa,Revisar las últimas actualizaciones de Angular,True,2024-03-08 18:52:25
+154,Ir al supermercado,"Limpiar la sala, cocina y baño",True,2023-07-31 18:52:25
+155,Limpiar la casa,Leer al menos un capítulo del libro,False,2023-12-16 18:52:25
+156,Enviar correo a Juan,"Limpiar la sala, cocina y baño",False,2023-07-04 18:52:25
+157,Enviar correo a Juan,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-12-31 18:52:25
+158,Limpiar la casa,Enviar un correo electrónico sobre el proyecto,True,2024-01-06 18:52:25
+159,Revisar el coche,Leer al menos un capítulo del libro,True,2023-07-30 18:52:25
+160,Limpiar la casa,"Limpiar la sala, cocina y baño",False,2024-03-02 18:52:25
+161,Leer un libro,"Limpiar la sala, cocina y baño",True,2023-06-29 18:52:25
+162,Llamar al médico,Llevar el coche al taller para revisión,False,2024-01-19 18:52:25
+163,Llamar al médico,Enviar un correo electrónico sobre el proyecto,False,2023-06-24 18:52:25
+164,Hacer ejercicio,Programa una cita para el chequeo anual,True,2023-11-10 18:52:25
+165,Ir al supermercado,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-09-09 18:52:25
+166,Cocinar la cena,Programa una cita para el chequeo anual,True,2023-07-24 18:52:25
+167,Pagar las facturas,Leer al menos un capítulo del libro,True,2024-05-03 18:52:25
+168,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,False,2024-03-20 18:52:25
+169,Llamar al médico,Leer al menos un capítulo del libro,True,2024-04-22 18:52:25
+170,Estudiar Angular,Compra los artículos de la lista,False,2024-04-05 18:52:25
+171,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-05-03 18:52:25
+172,Leer un libro,Enviar un correo electrónico sobre el proyecto,False,2023-12-31 18:52:25
+173,Revisar el coche,Revisar las últimas actualizaciones de Angular,True,2023-11-06 18:52:25
+174,Revisar el coche,Preparar una cena saludable,False,2023-08-06 18:52:25
+175,Cocinar la cena,Compra los artículos de la lista,False,2024-02-25 18:52:25
+176,Estudiar Angular,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-05-07 18:52:25
+177,Llamar al médico,Llevar el coche al taller para revisión,True,2023-11-04 18:52:25
+178,Ir al supermercado,Enviar un correo electrónico sobre el proyecto,True,2023-06-27 18:52:25
+179,Leer un libro,Enviar un correo electrónico sobre el proyecto,False,2023-08-11 18:52:25
+180,Revisar el coche,Pagar las facturas de servicios públicos,True,2023-08-25 18:52:25
+181,Leer un libro,Programa una cita para el chequeo anual,False,2023-07-08 18:52:25
+182,Leer un libro,Programa una cita para el chequeo anual,False,2024-02-23 18:52:25
+183,Leer un libro,Pagar las facturas de servicios públicos,True,2023-08-10 18:52:25
+184,Cocinar la cena,Preparar una cena saludable,True,2023-11-02 18:52:25
+185,Revisar el coche,Programa una cita para el chequeo anual,False,2024-03-23 18:52:25
+186,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,True,2024-04-21 18:52:25
+187,Pagar las facturas,Leer al menos un capítulo del libro,False,2024-01-26 18:52:25
+188,Llamar al médico,Preparar una cena saludable,True,2024-03-15 18:52:25
+189,Revisar el coche,Llevar el coche al taller para revisión,True,2023-08-31 18:52:25
+190,Enviar correo a Juan,Preparar una cena saludable,True,2023-10-13 18:52:25
+191,Llamar al médico,Compra los artículos de la lista,True,2023-09-22 18:52:25
+192,Pagar las facturas,Programa una cita para el chequeo anual,False,2024-05-08 18:52:25
+193,Llamar al médico,Leer al menos un capítulo del libro,False,2023-08-23 18:52:25
+194,Hacer ejercicio,Leer al menos un capítulo del libro,True,2024-02-04 18:52:25
+195,Hacer ejercicio,Compra los artículos de la lista,False,2024-04-16 18:52:25
+196,Hacer ejercicio,Preparar una cena saludable,True,2024-03-22 18:52:25
+197,Cocinar la cena,Programa una cita para el chequeo anual,True,2024-01-03 18:52:25
+198,Llamar al médico,"Limpiar la sala, cocina y baño",True,2024-01-09 18:52:25
+199,Ir al supermercado,Enviar un correo electrónico sobre el proyecto,True,2023-12-03 18:52:25
+200,Enviar correo a Juan,Llevar el coche al taller para revisión,False,2023-09-29 18:52:25
+201,Limpiar la casa,Revisar las últimas actualizaciones de Angular,False,2024-05-08 18:52:25
+202,Hacer ejercicio,Compra los artículos de la lista,False,2023-11-09 18:52:25
+203,Ir al supermercado,Leer al menos un capítulo del libro,False,2023-12-09 18:52:25
+204,Estudiar Angular,Pagar las facturas de servicios públicos,True,2023-07-30 18:52:25
+205,Llamar al médico,Programa una cita para el chequeo anual,False,2023-12-07 18:52:25
+206,Pagar las facturas,Enviar un correo electrónico sobre el proyecto,True,2023-12-18 18:52:25
+207,Hacer ejercicio,Preparar una cena saludable,False,2023-10-05 18:52:25
+208,Revisar el coche,Compra los artículos de la lista,True,2024-03-12 18:52:25
+209,Cocinar la cena,Pagar las facturas de servicios públicos,True,2024-02-22 18:52:25
+210,Ir al supermercado,Leer al menos un capítulo del libro,False,2023-06-20 18:52:25
+211,Revisar el coche,Preparar una cena saludable,False,2023-09-13 18:52:25
+212,Revisar el coche,Programa una cita para el chequeo anual,True,2023-10-06 18:52:25
+213,Llamar al médico,Leer al menos un capítulo del libro,True,2024-05-07 18:52:25
+214,Llamar al médico,Revisar las últimas actualizaciones de Angular,True,2024-03-15 18:52:25
+215,Llamar al médico,Leer al menos un capítulo del libro,False,2023-06-16 18:52:25
+216,Pagar las facturas,Leer al menos un capítulo del libro,True,2023-08-04 18:52:25
+217,Ir al supermercado,Compra los artículos de la lista,True,2024-04-18 18:52:25
+218,Pagar las facturas,Llevar el coche al taller para revisión,False,2023-08-04 18:52:25
+219,Cocinar la cena,Revisar las últimas actualizaciones de Angular,True,2023-07-02 18:52:25
+220,Limpiar la casa,Preparar una cena saludable,False,2024-01-08 18:52:25
+221,Revisar el coche,Enviar un correo electrónico sobre el proyecto,True,2023-10-03 18:52:25
+222,Estudiar Angular,Preparar una cena saludable,False,2023-09-13 18:52:25
+223,Revisar el coche,Revisar las últimas actualizaciones de Angular,False,2023-08-25 18:52:25
+224,Leer un libro,"Limpiar la sala, cocina y baño",False,2023-08-04 18:52:25
+225,Leer un libro,Leer al menos un capítulo del libro,False,2024-05-17 18:52:25
+226,Pagar las facturas,Llevar el coche al taller para revisión,True,2024-06-07 18:52:25
+227,Limpiar la casa,Revisar las últimas actualizaciones de Angular,False,2023-07-22 18:52:25
+228,Leer un libro,"Limpiar la sala, cocina y baño",True,2023-12-12 18:52:25
+229,Estudiar Angular,Revisar las últimas actualizaciones de Angular,False,2024-05-30 18:52:25
+230,Leer un libro,Revisar las últimas actualizaciones de Angular,False,2023-11-24 18:52:25
+231,Revisar el coche,Enviar un correo electrónico sobre el proyecto,False,2024-02-27 18:52:25
+232,Revisar el coche,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-06-23 18:52:25
+233,Estudiar Angular,Llevar el coche al taller para revisión,False,2023-06-15 18:52:25
+234,Leer un libro,"Limpiar la sala, cocina y baño",False,2024-02-21 18:52:25
+235,Enviar correo a Juan,Pagar las facturas de servicios públicos,False,2024-02-11 18:52:25
+236,Cocinar la cena,Revisar las últimas actualizaciones de Angular,False,2023-10-31 18:52:25
+237,Leer un libro,Programa una cita para el chequeo anual,False,2023-07-30 18:52:25
+238,Pagar las facturas,Enviar un correo electrónico sobre el proyecto,False,2023-12-17 18:52:25
+239,Limpiar la casa,Enviar un correo electrónico sobre el proyecto,True,2023-10-10 18:52:25
+240,Enviar correo a Juan,Revisar las últimas actualizaciones de Angular,True,2024-02-07 18:52:25
+241,Pagar las facturas,Revisar las últimas actualizaciones de Angular,True,2023-09-02 18:52:25
+242,Enviar correo a Juan,Leer al menos un capítulo del libro,True,2023-09-22 18:52:25
+243,Llamar al médico,Preparar una cena saludable,False,2024-01-25 18:52:25
+244,Revisar el coche,Compra los artículos de la lista,False,2023-07-19 18:52:25
+245,Limpiar la casa,"Limpiar la sala, cocina y baño",True,2023-12-10 18:52:25
+246,Hacer ejercicio,Revisar las últimas actualizaciones de Angular,True,2023-08-11 18:52:25
+247,Revisar el coche,"Limpiar la sala, cocina y baño",False,2023-11-01 18:52:25
+248,Estudiar Angular,Compra los artículos de la lista,True,2023-12-03 18:52:25
+249,Enviar correo a Juan,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-04-16 18:52:25
+250,Leer un libro,Programa una cita para el chequeo anual,False,2023-08-22 18:52:25
+251,Ir al supermercado,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-06-19 18:52:25
+252,Enviar correo a Juan,Llevar el coche al taller para revisión,False,2024-03-18 18:52:25
+253,Cocinar la cena,Enviar un correo electrónico sobre el proyecto,True,2024-06-02 18:52:25
+254,Cocinar la cena,Revisar las últimas actualizaciones de Angular,True,2023-11-04 18:52:25
+255,Limpiar la casa,Revisar las últimas actualizaciones de Angular,True,2023-12-19 18:52:25
+256,Cocinar la cena,Programa una cita para el chequeo anual,False,2023-08-18 18:52:25
+257,Limpiar la casa,Enviar un correo electrónico sobre el proyecto,True,2023-10-17 18:52:25
+258,Revisar el coche,Programa una cita para el chequeo anual,False,2024-02-03 18:52:25
+259,Estudiar Angular,Pagar las facturas de servicios públicos,False,2024-04-16 18:52:25
+260,Limpiar la casa,"Limpiar la sala, cocina y baño",False,2023-08-19 18:52:25
+261,Hacer ejercicio,Leer al menos un capítulo del libro,True,2023-07-30 18:52:25
+262,Limpiar la casa,Revisar las últimas actualizaciones de Angular,True,2023-07-15 18:52:25
+263,Cocinar la cena,Llevar el coche al taller para revisión,True,2024-02-29 18:52:25
+264,Leer un libro,Compra los artículos de la lista,True,2023-08-10 18:52:25
+265,Ir al supermercado,Enviar un correo electrónico sobre el proyecto,False,2024-06-05 18:52:25
+266,Leer un libro,Enviar un correo electrónico sobre el proyecto,False,2024-06-10 18:52:25
+267,Llamar al médico,Enviar un correo electrónico sobre el proyecto,True,2023-09-16 18:52:25
+268,Ir al supermercado,Compra los artículos de la lista,False,2023-09-26 18:52:25
+269,Limpiar la casa,Revisar las últimas actualizaciones de Angular,False,2023-10-19 18:52:25
+270,Pagar las facturas,Revisar las últimas actualizaciones de Angular,False,2023-08-03 18:52:25
+271,Limpiar la casa,Programa una cita para el chequeo anual,True,2024-05-13 18:52:25
+272,Leer un libro,Revisar las últimas actualizaciones de Angular,True,2024-02-24 18:52:25
+273,Llamar al médico,Leer al menos un capítulo del libro,False,2024-02-14 18:52:25
+274,Ir al supermercado,Programa una cita para el chequeo anual,True,2023-11-14 18:52:25
+275,Enviar correo a Juan,Revisar las últimas actualizaciones de Angular,True,2023-09-11 18:52:25
+276,Revisar el coche,Leer al menos un capítulo del libro,False,2024-01-22 18:52:25
+277,Enviar correo a Juan,Programa una cita para el chequeo anual,False,2024-05-16 18:52:25
+278,Revisar el coche,Llevar el coche al taller para revisión,False,2023-06-14 18:52:25
+279,Estudiar Angular,Revisar las últimas actualizaciones de Angular,False,2024-02-14 18:52:25
+280,Limpiar la casa,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-07-29 18:52:25
+281,Limpiar la casa,Leer al menos un capítulo del libro,True,2023-09-14 18:52:25
+282,Ir al supermercado,Compra los artículos de la lista,False,2023-08-08 18:52:25
+283,Revisar el coche,Enviar un correo electrónico sobre el proyecto,True,2023-08-16 18:52:25
+284,Limpiar la casa,Revisar las últimas actualizaciones de Angular,True,2023-08-20 18:52:25
+285,Limpiar la casa,Programa una cita para el chequeo anual,True,2023-06-20 18:52:25
+286,Pagar las facturas,Llevar el coche al taller para revisión,True,2024-03-20 18:52:25
+287,Hacer ejercicio,Leer al menos un capítulo del libro,False,2023-08-07 18:52:25
+288,Pagar las facturas,"Limpiar la sala, cocina y baño",False,2024-06-05 18:52:25
+289,Pagar las facturas,Compra los artículos de la lista,False,2024-01-27 18:52:25
+290,Revisar el coche,Pagar las facturas de servicios públicos,True,2023-09-30 18:52:25
+291,Limpiar la casa,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-01-07 18:52:25
+292,Llamar al médico,Leer al menos un capítulo del libro,True,2023-11-05 18:52:25
+293,Limpiar la casa,Leer al menos un capítulo del libro,True,2023-11-28 18:52:25
+294,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,False,2024-03-23 18:52:25
+295,Pagar las facturas,"Limpiar la sala, cocina y baño",True,2024-02-20 18:52:25
+296,Enviar correo a Juan,Preparar una cena saludable,True,2024-04-28 18:52:25
+297,Hacer ejercicio,"Limpiar la sala, cocina y baño",True,2024-02-09 18:52:25
+298,Cocinar la cena,Leer al menos un capítulo del libro,True,2024-04-04 18:52:25
+299,Enviar correo a Juan,Leer al menos un capítulo del libro,True,2024-03-04 18:52:25
+300,Enviar correo a Juan,Programa una cita para el chequeo anual,False,2023-09-05 18:52:25
+301,Llamar al médico,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-09-26 18:52:25
+302,Revisar el coche,Preparar una cena saludable,True,2023-10-04 18:52:25
+303,Estudiar Angular,Pagar las facturas de servicios públicos,False,2023-07-24 18:52:25
+304,Enviar correo a Juan,Llevar el coche al taller para revisión,False,2024-05-24 18:52:25
+305,Revisar el coche,Leer al menos un capítulo del libro,True,2023-08-02 18:52:25
+306,Revisar el coche,Enviar un correo electrónico sobre el proyecto,False,2023-07-24 18:52:25
+307,Llamar al médico,Compra los artículos de la lista,True,2023-12-05 18:52:25
+308,Llamar al médico,Revisar las últimas actualizaciones de Angular,True,2024-06-10 18:52:25
+309,Pagar las facturas,Preparar una cena saludable,False,2023-06-27 18:52:25
+310,Ir al supermercado,Programa una cita para el chequeo anual,True,2024-05-22 18:52:25
+311,Revisar el coche,Leer al menos un capítulo del libro,False,2023-10-10 18:52:25
+312,Revisar el coche,"Limpiar la sala, cocina y baño",True,2024-05-06 18:52:25
+313,Pagar las facturas,Compra los artículos de la lista,True,2023-08-08 18:52:25
+314,Hacer ejercicio,Leer al menos un capítulo del libro,False,2024-04-28 18:52:25
+315,Llamar al médico,Leer al menos un capítulo del libro,True,2023-12-03 18:52:25
+316,Llamar al médico,Pagar las facturas de servicios públicos,True,2023-06-18 18:52:25
+317,Hacer ejercicio,Preparar una cena saludable,True,2024-02-16 18:52:25
+318,Llamar al médico,Preparar una cena saludable,False,2024-05-15 18:52:25
+319,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-06-28 18:52:25
+320,Leer un libro,Pagar las facturas de servicios públicos,False,2023-12-14 18:52:25
+321,Pagar las facturas,Enviar un correo electrónico sobre el proyecto,False,2023-06-28 18:52:25
+322,Estudiar Angular,Preparar una cena saludable,False,2023-11-12 18:52:25
+323,Cocinar la cena,Llevar el coche al taller para revisión,True,2024-05-20 18:52:25
+324,Revisar el coche,Preparar una cena saludable,False,2023-11-07 18:52:25
+325,Revisar el coche,Preparar una cena saludable,True,2023-07-03 18:52:25
+326,Estudiar Angular,Pagar las facturas de servicios públicos,True,2024-03-31 18:52:25
+327,Cocinar la cena,Pagar las facturas de servicios públicos,False,2024-03-02 18:52:25
+328,Leer un libro,"Limpiar la sala, cocina y baño",True,2023-12-18 18:52:25
+329,Revisar el coche,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-06-01 18:52:25
+330,Llamar al médico,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-05-03 18:52:25
+331,Ir al supermercado,Programa una cita para el chequeo anual,True,2023-07-26 18:52:25
+332,Cocinar la cena,Compra los artículos de la lista,True,2024-02-19 18:52:25
+333,Pagar las facturas,Leer al menos un capítulo del libro,True,2024-05-03 18:52:25
+334,Leer un libro,Pagar las facturas de servicios públicos,False,2024-05-18 18:52:25
+335,Estudiar Angular,Llevar el coche al taller para revisión,False,2023-10-13 18:52:25
+336,Hacer ejercicio,Revisar las últimas actualizaciones de Angular,False,2023-06-28 18:52:25
+337,Hacer ejercicio,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-12-27 18:52:25
+338,Cocinar la cena,Llevar el coche al taller para revisión,False,2024-05-10 18:52:25
+339,Llamar al médico,Pagar las facturas de servicios públicos,False,2023-12-16 18:52:25
+340,Llamar al médico,"Limpiar la sala, cocina y baño",False,2023-11-06 18:52:25
+341,Limpiar la casa,"Limpiar la sala, cocina y baño",False,2024-05-24 18:52:25
+342,Revisar el coche,Programa una cita para el chequeo anual,False,2024-03-14 18:52:25
+343,Limpiar la casa,Programa una cita para el chequeo anual,False,2024-02-04 18:52:25
+344,Estudiar Angular,Compra los artículos de la lista,False,2023-12-01 18:52:25
+345,Limpiar la casa,"Limpiar la sala, cocina y baño",True,2023-07-05 18:52:25
+346,Revisar el coche,Enviar un correo electrónico sobre el proyecto,False,2024-04-16 18:52:25
+347,Cocinar la cena,Programa una cita para el chequeo anual,False,2024-05-07 18:52:25
+348,Hacer ejercicio,Pagar las facturas de servicios públicos,False,2024-05-26 18:52:25
+349,Leer un libro,"Limpiar la sala, cocina y baño",False,2023-06-14 18:52:25
+350,Estudiar Angular,Compra los artículos de la lista,False,2023-10-23 18:52:25
+351,Hacer ejercicio,Enviar un correo electrónico sobre el proyecto,False,2024-03-15 18:52:25
+352,Revisar el coche,Leer al menos un capítulo del libro,False,2024-03-06 18:52:25
+353,Hacer ejercicio,"Limpiar la sala, cocina y baño",True,2024-03-21 18:52:25
+354,Cocinar la cena,Llevar el coche al taller para revisión,False,2023-12-21 18:52:25
+355,Estudiar Angular,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-02-21 18:52:25
+356,Ir al supermercado,Revisar las últimas actualizaciones de Angular,True,2023-08-15 18:52:25
+357,Limpiar la casa,Compra los artículos de la lista,True,2023-11-30 18:52:25
+358,Llamar al médico,Pagar las facturas de servicios públicos,False,2023-10-29 18:52:25
+359,Ir al supermercado,Compra los artículos de la lista,True,2024-01-06 18:52:25
+360,Estudiar Angular,Preparar una cena saludable,True,2024-06-03 18:52:25
+361,Leer un libro,Programa una cita para el chequeo anual,True,2024-06-07 18:52:25
+362,Leer un libro,Pagar las facturas de servicios públicos,False,2023-10-12 18:52:25
+363,Cocinar la cena,"Limpiar la sala, cocina y baño",False,2023-09-01 18:52:25
+364,Revisar el coche,Revisar las últimas actualizaciones de Angular,False,2023-07-12 18:52:25
+365,Estudiar Angular,Pagar las facturas de servicios públicos,False,2024-01-04 18:52:25
+366,Hacer ejercicio,Enviar un correo electrónico sobre el proyecto,False,2024-02-29 18:52:25
+367,Enviar correo a Juan,"Limpiar la sala, cocina y baño",True,2023-11-20 18:52:25
+368,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,True,2024-03-20 18:52:25
+369,Enviar correo a Juan,Preparar una cena saludable,True,2023-09-16 18:52:25
+370,Limpiar la casa,Leer al menos un capítulo del libro,False,2023-11-19 18:52:25
+371,Llamar al médico,Programa una cita para el chequeo anual,True,2023-08-30 18:52:25
+372,Estudiar Angular,Compra los artículos de la lista,True,2024-02-07 18:52:25
+373,Pagar las facturas,Enviar un correo electrónico sobre el proyecto,False,2023-07-21 18:52:25
+374,Llamar al médico,Pagar las facturas de servicios públicos,True,2023-08-09 18:52:25
+375,Limpiar la casa,Pagar las facturas de servicios públicos,True,2023-11-05 18:52:25
+376,Limpiar la casa,Pagar las facturas de servicios públicos,True,2023-08-31 18:52:25
+377,Cocinar la cena,Revisar las últimas actualizaciones de Angular,True,2024-05-19 18:52:25
+378,Leer un libro,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-03-11 18:52:25
+379,Leer un libro,"Limpiar la sala, cocina y baño",False,2024-04-14 18:52:25
+380,Revisar el coche,Pagar las facturas de servicios públicos,False,2023-11-11 18:52:25
+381,Cocinar la cena,Leer al menos un capítulo del libro,True,2023-10-06 18:52:25
+382,Estudiar Angular,Revisar las últimas actualizaciones de Angular,True,2023-08-19 18:52:25
+383,Pagar las facturas,Llevar el coche al taller para revisión,True,2023-12-26 18:52:25
+384,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,True,2024-05-18 18:52:25
+385,Pagar las facturas,Llevar el coche al taller para revisión,False,2024-01-09 18:52:25
+386,Llamar al médico,"Limpiar la sala, cocina y baño",True,2024-02-28 18:52:25
+387,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,False,2023-09-16 18:52:25
+388,Pagar las facturas,Revisar las últimas actualizaciones de Angular,False,2023-07-23 18:52:25
+389,Hacer ejercicio,Pagar las facturas de servicios públicos,False,2023-08-17 18:52:25
+390,Hacer ejercicio,"Limpiar la sala, cocina y baño",False,2024-02-22 18:52:25
+391,Hacer ejercicio,Programa una cita para el chequeo anual,True,2023-08-29 18:52:25
+392,Revisar el coche,Compra los artículos de la lista,False,2024-02-07 18:52:25
+393,Pagar las facturas,Preparar una cena saludable,True,2024-03-04 18:52:25
+394,Limpiar la casa,Leer al menos un capítulo del libro,True,2024-05-25 18:52:25
+395,Hacer ejercicio,Llevar el coche al taller para revisión,True,2023-07-11 18:52:25
+396,Revisar el coche,Revisar las últimas actualizaciones de Angular,True,2023-11-24 18:52:25
+397,Limpiar la casa,Llevar el coche al taller para revisión,False,2023-10-25 18:52:25
+398,Limpiar la casa,Revisar las últimas actualizaciones de Angular,True,2024-01-23 18:52:25
+399,Estudiar Angular,Revisar las últimas actualizaciones de Angular,False,2024-04-09 18:52:25
+400,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,True,2024-04-08 18:52:25
+401,Revisar el coche,Pagar las facturas de servicios públicos,True,2023-12-03 18:52:25
+402,Llamar al médico,Pagar las facturas de servicios públicos,True,2023-10-19 18:52:25
+403,Llamar al médico,"Limpiar la sala, cocina y baño",True,2024-02-27 18:52:25
+404,Ir al supermercado,"Limpiar la sala, cocina y baño",True,2023-08-09 18:52:25
+405,Cocinar la cena,Leer al menos un capítulo del libro,False,2023-06-15 18:52:25
+406,Pagar las facturas,"Limpiar la sala, cocina y baño",True,2023-06-23 18:52:25
+407,Estudiar Angular,Preparar una cena saludable,True,2023-06-28 18:52:25
+408,Enviar correo a Juan,Pagar las facturas de servicios públicos,True,2024-04-02 18:52:25
+409,Limpiar la casa,Llevar el coche al taller para revisión,False,2023-12-07 18:52:25
+410,Leer un libro,Revisar las últimas actualizaciones de Angular,True,2024-03-21 18:52:25
+411,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-05-23 18:52:25
+412,Enviar correo a Juan,Leer al menos un capítulo del libro,False,2023-09-21 18:52:25
+413,Revisar el coche,Programa una cita para el chequeo anual,True,2024-01-09 18:52:25
+414,Estudiar Angular,"Limpiar la sala, cocina y baño",False,2023-10-03 18:52:25
+415,Ir al supermercado,Llevar el coche al taller para revisión,False,2023-12-25 18:52:25
+416,Hacer ejercicio,Programa una cita para el chequeo anual,False,2024-03-29 18:52:25
+417,Ir al supermercado,Programa una cita para el chequeo anual,False,2024-05-22 18:52:25
+418,Ir al supermercado,Pagar las facturas de servicios públicos,False,2023-12-26 18:52:25
+419,Limpiar la casa,"Limpiar la sala, cocina y baño",True,2024-06-06 18:52:25
+420,Ir al supermercado,Llevar el coche al taller para revisión,True,2023-10-07 18:52:25
+421,Leer un libro,Pagar las facturas de servicios públicos,True,2023-08-20 18:52:25
+422,Leer un libro,Programa una cita para el chequeo anual,False,2024-04-07 18:52:25
+423,Pagar las facturas,Programa una cita para el chequeo anual,True,2024-03-23 18:52:25
+424,Enviar correo a Juan,Preparar una cena saludable,False,2024-04-27 18:52:25
+425,Revisar el coche,"Limpiar la sala, cocina y baño",False,2023-10-27 18:52:25
+426,Cocinar la cena,Revisar las últimas actualizaciones de Angular,False,2023-12-04 18:52:25
+427,Estudiar Angular,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-12-11 18:52:25
+428,Revisar el coche,Enviar un correo electrónico sobre el proyecto,True,2023-12-23 18:52:25
+429,Cocinar la cena,Preparar una cena saludable,False,2023-11-07 18:52:25
+430,Limpiar la casa,Programa una cita para el chequeo anual,False,2023-09-02 18:52:25
+431,Ir al supermercado,Programa una cita para el chequeo anual,False,2024-02-22 18:52:25
+432,Limpiar la casa,Pagar las facturas de servicios públicos,True,2023-10-26 18:52:25
+433,Cocinar la cena,Llevar el coche al taller para revisión,True,2024-03-28 18:52:25
+434,Enviar correo a Juan,Programa una cita para el chequeo anual,False,2024-01-16 18:52:25
+435,Revisar el coche,Programa una cita para el chequeo anual,False,2023-12-02 18:52:25
+436,Llamar al médico,Leer al menos un capítulo del libro,False,2023-08-25 18:52:25
+437,Estudiar Angular,Preparar una cena saludable,False,2023-06-20 18:52:25
+438,Hacer ejercicio,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-08-10 18:52:25
+439,Limpiar la casa,Compra los artículos de la lista,False,2024-05-12 18:52:25
+440,Enviar correo a Juan,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-01-03 18:52:25
+441,Cocinar la cena,Preparar una cena saludable,True,2024-03-05 18:52:25
+442,Leer un libro,Pagar las facturas de servicios públicos,True,2023-10-20 18:52:25
+443,Estudiar Angular,Programa una cita para el chequeo anual,False,2024-06-04 18:52:25
+444,Leer un libro,"Limpiar la sala, cocina y baño",True,2023-11-17 18:52:25
+445,Enviar correo a Juan,Revisar las últimas actualizaciones de Angular,True,2023-06-13 18:52:25
+446,Leer un libro,"Limpiar la sala, cocina y baño",True,2023-09-01 18:52:25
+447,Hacer ejercicio,Programa una cita para el chequeo anual,True,2023-09-14 18:52:25
+448,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-06-18 18:52:25
+449,Estudiar Angular,Preparar una cena saludable,False,2023-08-12 18:52:25
+450,Leer un libro,Leer al menos un capítulo del libro,True,2024-05-01 18:52:25
+451,Hacer ejercicio,Compra los artículos de la lista,False,2023-12-31 18:52:25
+452,Revisar el coche,Llevar el coche al taller para revisión,True,2024-01-19 18:52:25
+453,Cocinar la cena,Compra los artículos de la lista,True,2023-07-03 18:52:25
+454,Hacer ejercicio,Preparar una cena saludable,True,2024-01-21 18:52:25
+455,Estudiar Angular,Compra los artículos de la lista,True,2023-08-18 18:52:25
+456,Leer un libro,Pagar las facturas de servicios públicos,True,2023-11-07 18:52:25
+457,Enviar correo a Juan,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-07-11 18:52:25
+458,Leer un libro,Pagar las facturas de servicios públicos,True,2024-06-07 18:52:25
+459,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,False,2023-09-17 18:52:25
+460,Limpiar la casa,Preparar una cena saludable,False,2024-02-15 18:52:25
+461,Revisar el coche,Compra los artículos de la lista,True,2024-05-20 18:52:25
+462,Revisar el coche,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-08-03 18:52:25
+463,Estudiar Angular,Programa una cita para el chequeo anual,False,2023-08-30 18:52:25
+464,Cocinar la cena,"Limpiar la sala, cocina y baño",True,2023-08-12 18:52:25
+465,Revisar el coche,Llevar el coche al taller para revisión,True,2024-06-03 18:52:25
+466,Estudiar Angular,Pagar las facturas de servicios públicos,False,2024-02-02 18:52:25
+467,Estudiar Angular,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-08-31 18:52:25
+468,Cocinar la cena,Pagar las facturas de servicios públicos,True,2024-05-15 18:52:25
+469,Pagar las facturas,Leer al menos un capítulo del libro,False,2023-11-09 18:52:25
+470,Ir al supermercado,Revisar las últimas actualizaciones de Angular,False,2024-01-08 18:52:25
+471,Estudiar Angular,Compra los artículos de la lista,True,2024-01-02 18:52:25
+472,Pagar las facturas,Compra los artículos de la lista,False,2024-03-10 18:52:25
+473,Ir al supermercado,Leer al menos un capítulo del libro,True,2024-06-06 18:52:25
+474,Ir al supermercado,"Limpiar la sala, cocina y baño",False,2023-09-11 18:52:25
+475,Estudiar Angular,Enviar un correo electrónico sobre el proyecto,True,2023-06-26 18:52:25
+476,Llamar al médico,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-07-17 18:52:25
+477,Ir al supermercado,"Limpiar la sala, cocina y baño",False,2024-04-25 18:52:25
+478,Enviar correo a Juan,Revisar las últimas actualizaciones de Angular,False,2024-05-20 18:52:25
+479,Leer un libro,"Limpiar la sala, cocina y baño",False,2024-05-31 18:52:25
+480,Revisar el coche,Compra los artículos de la lista,False,2023-11-16 18:52:25
+481,Cocinar la cena,Leer al menos un capítulo del libro,False,2024-04-04 18:52:25
+482,Llamar al médico,"Limpiar la sala, cocina y baño",True,2024-03-10 18:52:25
+483,Limpiar la casa,Revisar las últimas actualizaciones de Angular,True,2023-12-30 18:52:25
+484,Estudiar Angular,Leer al menos un capítulo del libro,False,2023-07-02 18:52:25
+485,Hacer ejercicio,Leer al menos un capítulo del libro,True,2023-08-21 18:52:25
+486,Cocinar la cena,"Limpiar la sala, cocina y baño",False,2024-04-29 18:52:25
+487,Revisar el coche,Llevar el coche al taller para revisión,False,2023-08-13 18:52:25
+488,Llamar al médico,Preparar una cena saludable,True,2023-08-26 18:52:25
+489,Pagar las facturas,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-07-17 18:52:25
+490,Limpiar la casa,"Limpiar la sala, cocina y baño",True,2023-12-17 18:52:25
+491,Pagar las facturas,Revisar las últimas actualizaciones de Angular,True,2023-12-11 18:52:25
+492,Revisar el coche,"Limpiar la sala, cocina y baño",True,2023-09-07 18:52:25
+493,Leer un libro,Llevar el coche al taller para revisión,False,2023-09-02 18:52:25
+494,Ir al supermercado,Enviar un correo electrónico sobre el proyecto,False,2023-11-20 18:52:25
+495,Limpiar la casa,Compra los artículos de la lista,False,2024-02-08 18:52:25
+496,Llamar al médico,Revisar las últimas actualizaciones de Angular,True,2023-08-28 18:52:25
+497,Llamar al médico,Leer al menos un capítulo del libro,False,2023-07-08 18:52:25
+498,Limpiar la casa,Pagar las facturas de servicios públicos,True,2023-07-19 18:52:25
+499,Estudiar Angular,Enviar un correo electrónico sobre el proyecto,True,2024-06-09 18:52:25
+500,Estudiar Angular,Preparar una cena saludable,True,2023-11-19 18:52:25
+501,Cocinar la cena,Revisar las últimas actualizaciones de Angular,False,2023-12-29 18:52:25
+502,Estudiar Angular,Pagar las facturas de servicios públicos,True,2024-02-25 18:52:25
+503,Enviar correo a Juan,"Limpiar la sala, cocina y baño",False,2024-04-26 18:52:25
+504,Ir al supermercado,Revisar las últimas actualizaciones de Angular,False,2024-01-22 18:52:25
+505,Estudiar Angular,"Limpiar la sala, cocina y baño",False,2024-03-21 18:52:25
+506,Revisar el coche,Enviar un correo electrónico sobre el proyecto,True,2023-10-13 18:52:25
+507,Pagar las facturas,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-06-25 18:52:25
+508,Ir al supermercado,Enviar un correo electrónico sobre el proyecto,True,2024-03-07 18:52:25
+509,Enviar correo a Juan,Llevar el coche al taller para revisión,True,2024-04-26 18:52:25
+510,Limpiar la casa,Preparar una cena saludable,True,2023-12-27 18:52:25
+511,Limpiar la casa,Llevar el coche al taller para revisión,False,2024-01-08 18:52:25
+512,Ir al supermercado,Leer al menos un capítulo del libro,False,2023-10-08 18:52:25
+513,Limpiar la casa,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-08-09 18:52:25
+514,Leer un libro,Preparar una cena saludable,False,2023-11-21 18:52:25
+515,Estudiar Angular,Preparar una cena saludable,True,2024-01-25 18:52:25
+516,Hacer ejercicio,Revisar las últimas actualizaciones de Angular,True,2023-11-05 18:52:25
+517,Cocinar la cena,Preparar una cena saludable,False,2023-09-14 18:52:25
+518,Estudiar Angular,Leer al menos un capítulo del libro,False,2024-03-03 18:52:25
+519,Llamar al médico,Leer al menos un capítulo del libro,True,2023-12-21 18:52:25
+520,Ir al supermercado,Enviar un correo electrónico sobre el proyecto,True,2023-11-28 18:52:25
+521,Leer un libro,Pagar las facturas de servicios públicos,True,2023-10-24 18:52:25
+522,Hacer ejercicio,"Limpiar la sala, cocina y baño",True,2024-01-25 18:52:25
+523,Pagar las facturas,Enviar un correo electrónico sobre el proyecto,False,2023-07-26 18:52:25
+524,Limpiar la casa,Leer al menos un capítulo del libro,False,2023-08-23 18:52:25
+525,Cocinar la cena,Enviar un correo electrónico sobre el proyecto,True,2023-07-10 18:52:25
+526,Limpiar la casa,Enviar un correo electrónico sobre el proyecto,False,2024-02-08 18:52:25
+527,Llamar al médico,Programa una cita para el chequeo anual,False,2023-09-28 18:52:25
+528,Revisar el coche,Enviar un correo electrónico sobre el proyecto,False,2024-05-01 18:52:25
+529,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-07-12 18:52:25
+530,Pagar las facturas,Compra los artículos de la lista,False,2024-02-14 18:52:25
+531,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-02-06 18:52:25
+532,Estudiar Angular,Leer al menos un capítulo del libro,True,2023-06-27 18:52:25
+533,Revisar el coche,"Limpiar la sala, cocina y baño",False,2023-11-30 18:52:25
+534,Hacer ejercicio,"Limpiar la sala, cocina y baño",False,2024-02-12 18:52:25
+535,Pagar las facturas,Compra los artículos de la lista,True,2024-05-28 18:52:25
+536,Pagar las facturas,"Limpiar la sala, cocina y baño",True,2024-01-05 18:52:25
+537,Hacer ejercicio,Revisar las últimas actualizaciones de Angular,False,2024-01-19 18:52:25
+538,Revisar el coche,Llevar el coche al taller para revisión,True,2023-08-16 18:52:25
+539,Pagar las facturas,Compra los artículos de la lista,True,2023-06-27 18:52:25
+540,Pagar las facturas,Llevar el coche al taller para revisión,True,2024-03-16 18:52:25
+541,Hacer ejercicio,Enviar un correo electrónico sobre el proyecto,False,2023-06-22 18:52:25
+542,Hacer ejercicio,Enviar un correo electrónico sobre el proyecto,True,2023-06-14 18:52:25
+543,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,True,2024-04-09 18:52:25
+544,Enviar correo a Juan,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-07-15 18:52:25
+545,Enviar correo a Juan,Compra los artículos de la lista,False,2024-06-08 18:52:25
+546,Estudiar Angular,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-11-09 18:52:25
+547,Llamar al médico,Preparar una cena saludable,False,2024-01-17 18:52:25
+548,Cocinar la cena,Llevar el coche al taller para revisión,False,2023-11-04 18:52:25
+549,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-02-13 18:52:25
+550,Hacer ejercicio,Revisar las últimas actualizaciones de Angular,True,2024-02-09 18:52:25
+551,Ir al supermercado,Compra los artículos de la lista,False,2023-12-09 18:52:25
+552,Pagar las facturas,Pagar las facturas de servicios públicos,False,2023-07-21 18:52:25
+553,Enviar correo a Juan,Llevar el coche al taller para revisión,True,2024-03-24 18:52:25
+554,Leer un libro,"Limpiar la sala, cocina y baño",False,2023-06-25 18:52:25
+555,Ir al supermercado,Preparar una cena saludable,False,2024-05-11 18:52:25
+556,Enviar correo a Juan,Preparar una cena saludable,True,2023-09-05 18:52:25
+557,Limpiar la casa,Programa una cita para el chequeo anual,True,2023-12-13 18:52:25
+558,Ir al supermercado,Pagar las facturas de servicios públicos,True,2023-06-13 18:52:25
+559,Ir al supermercado,Programa una cita para el chequeo anual,False,2023-11-03 18:52:25
+560,Estudiar Angular,Preparar una cena saludable,False,2024-02-06 18:52:25
+561,Estudiar Angular,Pagar las facturas de servicios públicos,True,2023-06-21 18:52:25
+562,Cocinar la cena,Pagar las facturas de servicios públicos,False,2024-03-15 18:52:25
+563,Leer un libro,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-06-08 18:52:25
+564,Revisar el coche,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-10-29 18:52:25
+565,Ir al supermercado,"Limpiar la sala, cocina y baño",False,2023-07-24 18:52:25
+566,Estudiar Angular,Programa una cita para el chequeo anual,False,2023-07-23 18:52:25
+567,Estudiar Angular,Llevar el coche al taller para revisión,False,2023-10-13 18:52:25
+568,Estudiar Angular,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-03-19 18:52:25
+569,Llamar al médico,Enviar un correo electrónico sobre el proyecto,False,2023-12-25 18:52:25
+570,Enviar correo a Juan,Compra los artículos de la lista,True,2023-10-03 18:52:25
+571,Revisar el coche,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-11-23 18:52:25
+572,Llamar al médico,Compra los artículos de la lista,False,2023-08-14 18:52:25
+573,Limpiar la casa,Programa una cita para el chequeo anual,True,2023-06-13 18:52:25
+574,Estudiar Angular,Compra los artículos de la lista,True,2023-06-15 18:52:25
+575,Cocinar la cena,Llevar el coche al taller para revisión,True,2023-11-30 18:52:25
+576,Ir al supermercado,"Limpiar la sala, cocina y baño",False,2023-11-27 18:52:25
+577,Llamar al médico,"Limpiar la sala, cocina y baño",True,2023-07-16 18:52:25
+578,Leer un libro,Compra los artículos de la lista,False,2023-07-27 18:52:25
+579,Cocinar la cena,Preparar una cena saludable,False,2024-06-10 18:52:25
+580,Pagar las facturas,Pagar las facturas de servicios públicos,False,2024-01-18 18:52:25
+581,Ir al supermercado,Pagar las facturas de servicios públicos,False,2024-03-19 18:52:25
+582,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,True,2023-11-27 18:52:25
+583,Revisar el coche,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-07-10 18:52:25
+584,Pagar las facturas,Preparar una cena saludable,True,2023-07-31 18:52:25
+585,Limpiar la casa,Pagar las facturas de servicios públicos,True,2024-05-11 18:52:25
+586,Llamar al médico,Programa una cita para el chequeo anual,False,2023-07-01 18:52:25
+587,Limpiar la casa,Preparar una cena saludable,True,2023-07-31 18:52:25
+588,Limpiar la casa,Leer al menos un capítulo del libro,False,2024-03-24 18:52:25
+589,Pagar las facturas,Llevar el coche al taller para revisión,True,2024-01-27 18:52:25
+590,Llamar al médico,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-05-02 18:52:25
+591,Limpiar la casa,Revisar las últimas actualizaciones de Angular,False,2023-11-05 18:52:25
+592,Limpiar la casa,"Limpiar la sala, cocina y baño",True,2023-10-28 18:52:25
+593,Leer un libro,Programa una cita para el chequeo anual,True,2024-01-22 18:52:25
+594,Estudiar Angular,Revisar las últimas actualizaciones de Angular,True,2023-07-01 18:52:25
+595,Leer un libro,Compra los artículos de la lista,False,2024-05-01 18:52:25
+596,Hacer ejercicio,Pagar las facturas de servicios públicos,False,2024-01-27 18:52:25
+597,Limpiar la casa,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-10-06 18:52:25
+598,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,True,2023-12-19 18:52:25
+599,Cocinar la cena,Revisar las últimas actualizaciones de Angular,False,2023-11-25 18:52:25
+600,Cocinar la cena,Revisar las últimas actualizaciones de Angular,False,2023-07-01 18:52:25
+601,Limpiar la casa,"Limpiar la sala, cocina y baño",False,2024-02-09 18:52:25
+602,Hacer ejercicio,Leer al menos un capítulo del libro,False,2024-01-30 18:52:25
+603,Llamar al médico,Enviar un correo electrónico sobre el proyecto,True,2023-10-27 18:52:25
+604,Cocinar la cena,Programa una cita para el chequeo anual,False,2024-02-02 18:52:25
+605,Cocinar la cena,"Limpiar la sala, cocina y baño",True,2024-04-04 18:52:25
+606,Llamar al médico,Enviar un correo electrónico sobre el proyecto,False,2023-12-01 18:52:25
+607,Ir al supermercado,Preparar una cena saludable,False,2024-05-16 18:52:25
+608,Ir al supermercado,Leer al menos un capítulo del libro,False,2023-10-18 18:52:25
+609,Limpiar la casa,Pagar las facturas de servicios públicos,False,2024-04-17 18:52:25
+610,Llamar al médico,Programa una cita para el chequeo anual,False,2023-11-26 18:52:25
+611,Revisar el coche,Programa una cita para el chequeo anual,False,2023-12-08 18:52:25
+612,Leer un libro,Programa una cita para el chequeo anual,False,2024-04-21 18:52:25
+613,Pagar las facturas,Enviar un correo electrónico sobre el proyecto,False,2023-12-25 18:52:25
+614,Revisar el coche,Programa una cita para el chequeo anual,False,2023-09-15 18:52:25
+615,Enviar correo a Juan,Preparar una cena saludable,True,2024-02-19 18:52:25
+616,Enviar correo a Juan,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-09-19 18:52:25
+617,Hacer ejercicio,Programa una cita para el chequeo anual,True,2023-10-01 18:52:25
+618,Estudiar Angular,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-06-25 18:52:25
+619,Limpiar la casa,"Limpiar la sala, cocina y baño",False,2023-09-27 18:52:25
+620,Revisar el coche,Revisar las últimas actualizaciones de Angular,False,2023-10-03 18:52:25
+621,Revisar el coche,"Limpiar la sala, cocina y baño",True,2024-02-23 18:52:25
+622,Estudiar Angular,Compra los artículos de la lista,False,2024-03-30 18:52:25
+623,Estudiar Angular,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-05-03 18:52:25
+624,Pagar las facturas,Compra los artículos de la lista,True,2024-01-21 18:52:25
+625,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-11-21 18:52:25
+626,Llamar al médico,"Limpiar la sala, cocina y baño",True,2024-03-01 18:52:25
+627,Llamar al médico,Enviar un correo electrónico sobre el proyecto,False,2023-07-20 18:52:25
+628,Enviar correo a Juan,Llevar el coche al taller para revisión,True,2024-04-30 18:52:25
+629,Limpiar la casa,Pagar las facturas de servicios públicos,True,2024-01-25 18:52:25
+630,Leer un libro,Revisar las últimas actualizaciones de Angular,True,2024-02-02 18:52:25
+631,Revisar el coche,Leer al menos un capítulo del libro,True,2024-02-29 18:52:25
+632,Cocinar la cena,Compra los artículos de la lista,True,2023-07-14 18:52:25
+633,Enviar correo a Juan,Leer al menos un capítulo del libro,False,2024-05-09 18:52:25
+634,Hacer ejercicio,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-10-18 18:52:25
+635,Llamar al médico,Leer al menos un capítulo del libro,False,2024-01-07 18:52:25
+636,Estudiar Angular,Leer al menos un capítulo del libro,False,2024-06-06 18:52:25
+637,Limpiar la casa,"Limpiar la sala, cocina y baño",True,2023-12-21 18:52:25
+638,Limpiar la casa,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-01-03 18:52:25
+639,Leer un libro,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-04-26 18:52:25
+640,Enviar correo a Juan,Programa una cita para el chequeo anual,False,2023-06-26 18:52:25
+641,Pagar las facturas,Preparar una cena saludable,True,2024-03-19 18:52:25
+642,Hacer ejercicio,"Limpiar la sala, cocina y baño",False,2023-06-18 18:52:25
+643,Enviar correo a Juan,Preparar una cena saludable,False,2023-08-16 18:52:25
+644,Revisar el coche,Compra los artículos de la lista,False,2023-09-24 18:52:25
+645,Cocinar la cena,Llevar el coche al taller para revisión,True,2024-02-05 18:52:25
+646,Ir al supermercado,Enviar un correo electrónico sobre el proyecto,False,2024-04-04 18:52:25
+647,Revisar el coche,"Limpiar la sala, cocina y baño",True,2024-05-09 18:52:25
+648,Leer un libro,Preparar una cena saludable,False,2023-06-26 18:52:25
+649,Ir al supermercado,Pagar las facturas de servicios públicos,False,2024-04-23 18:52:25
+650,Pagar las facturas,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-07-03 18:52:25
+651,Cocinar la cena,Llevar el coche al taller para revisión,False,2023-08-11 18:52:25
+652,Cocinar la cena,Preparar una cena saludable,False,2024-04-28 18:52:25
+653,Enviar correo a Juan,Compra los artículos de la lista,False,2023-08-09 18:52:25
+654,Limpiar la casa,Enviar un correo electrónico sobre el proyecto,False,2023-06-23 18:52:25
+655,Leer un libro,Enviar un correo electrónico sobre el proyecto,False,2023-08-24 18:52:25
+656,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,True,2023-10-03 18:52:25
+657,Llamar al médico,Programa una cita para el chequeo anual,False,2024-02-06 18:52:25
+658,Estudiar Angular,Enviar un correo electrónico sobre el proyecto,False,2024-04-02 18:52:25
+659,Leer un libro,Compra los artículos de la lista,True,2023-07-30 18:52:25
+660,Estudiar Angular,Enviar un correo electrónico sobre el proyecto,False,2023-10-05 18:52:25
+661,Cocinar la cena,Llevar el coche al taller para revisión,False,2024-03-29 18:52:25
+662,Pagar las facturas,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-04-14 18:52:25
+663,Hacer ejercicio,Programa una cita para el chequeo anual,True,2023-11-01 18:52:25
+664,Leer un libro,Pagar las facturas de servicios públicos,False,2023-11-26 18:52:25
+665,Llamar al médico,Pagar las facturas de servicios públicos,True,2023-10-14 18:52:25
+666,Llamar al médico,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-07-06 18:52:25
+667,Ir al supermercado,Pagar las facturas de servicios públicos,False,2023-07-14 18:52:25
+668,Llamar al médico,Llevar el coche al taller para revisión,True,2024-03-25 18:52:25
+669,Pagar las facturas,Enviar un correo electrónico sobre el proyecto,True,2023-08-14 18:52:25
+670,Estudiar Angular,"Limpiar la sala, cocina y baño",True,2024-03-03 18:52:25
+671,Leer un libro,Compra los artículos de la lista,False,2023-12-01 18:52:25
+672,Hacer ejercicio,Revisar las últimas actualizaciones de Angular,False,2023-10-29 18:52:25
+673,Llamar al médico,Preparar una cena saludable,False,2023-11-08 18:52:25
+674,Limpiar la casa,Llevar el coche al taller para revisión,True,2023-08-21 18:52:25
+675,Llamar al médico,Preparar una cena saludable,True,2024-03-30 18:52:25
+676,Estudiar Angular,Pagar las facturas de servicios públicos,False,2023-10-04 18:52:25
+677,Estudiar Angular,Compra los artículos de la lista,False,2023-12-22 18:52:25
+678,Ir al supermercado,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-05-16 18:52:25
+679,Ir al supermercado,"Limpiar la sala, cocina y baño",True,2024-01-23 18:52:25
+680,Leer un libro,Preparar una cena saludable,True,2024-06-12 18:52:25
+681,Enviar correo a Juan,Leer al menos un capítulo del libro,False,2023-06-18 18:52:25
+682,Estudiar Angular,Pagar las facturas de servicios públicos,False,2023-09-04 18:52:25
+683,Cocinar la cena,Revisar las últimas actualizaciones de Angular,True,2023-08-10 18:52:25
+684,Hacer ejercicio,Leer al menos un capítulo del libro,False,2023-07-19 18:52:25
+685,Ir al supermercado,Pagar las facturas de servicios públicos,True,2023-08-31 18:52:25
+686,Leer un libro,Pagar las facturas de servicios públicos,True,2024-01-20 18:52:25
+687,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-09-05 18:52:25
+688,Hacer ejercicio,Llevar el coche al taller para revisión,False,2024-05-01 18:52:25
+689,Pagar las facturas,Pagar las facturas de servicios públicos,True,2023-06-17 18:52:25
+690,Hacer ejercicio,Llevar el coche al taller para revisión,True,2024-01-27 18:52:25
+691,Pagar las facturas,"Limpiar la sala, cocina y baño",False,2023-08-13 18:52:25
+692,Enviar correo a Juan,Revisar las últimas actualizaciones de Angular,True,2024-03-14 18:52:25
+693,Hacer ejercicio,Enviar un correo electrónico sobre el proyecto,False,2023-07-02 18:52:25
+694,Cocinar la cena,Enviar un correo electrónico sobre el proyecto,True,2024-02-09 18:52:25
+695,Estudiar Angular,"Limpiar la sala, cocina y baño",True,2024-02-04 18:52:25
+696,Pagar las facturas,Llevar el coche al taller para revisión,False,2023-12-19 18:52:25
+697,Hacer ejercicio,Enviar un correo electrónico sobre el proyecto,False,2023-06-17 18:52:25
+698,Limpiar la casa,Enviar un correo electrónico sobre el proyecto,False,2024-02-28 18:52:25
+699,Revisar el coche,Preparar una cena saludable,False,2023-12-18 18:52:25
+700,Enviar correo a Juan,"Limpiar la sala, cocina y baño",True,2024-02-08 18:52:25
+701,Llamar al médico,Leer al menos un capítulo del libro,False,2023-08-06 18:52:25
+702,Leer un libro,Enviar un correo electrónico sobre el proyecto,False,2023-12-19 18:52:25
+703,Revisar el coche,Compra los artículos de la lista,False,2023-12-01 18:52:25
+704,Ir al supermercado,Preparar una cena saludable,False,2023-11-05 18:52:25
+705,Enviar correo a Juan,"Limpiar la sala, cocina y baño",False,2023-10-12 18:52:25
+706,Estudiar Angular,"Limpiar la sala, cocina y baño",True,2024-01-30 18:52:25
+707,Enviar correo a Juan,Programa una cita para el chequeo anual,False,2023-12-16 18:52:25
+708,Cocinar la cena,Revisar las últimas actualizaciones de Angular,True,2024-03-27 18:52:25
+709,Estudiar Angular,Enviar un correo electrónico sobre el proyecto,True,2024-04-28 18:52:25
+710,Hacer ejercicio,Pagar las facturas de servicios públicos,False,2023-11-07 18:52:25
+711,Pagar las facturas,Pagar las facturas de servicios públicos,True,2023-11-02 18:52:25
+712,Limpiar la casa,Leer al menos un capítulo del libro,True,2023-12-16 18:52:25
+713,Pagar las facturas,Preparar una cena saludable,True,2023-11-09 18:52:25
+714,Estudiar Angular,Leer al menos un capítulo del libro,False,2023-06-18 18:52:25
+715,Estudiar Angular,Leer al menos un capítulo del libro,False,2023-10-04 18:52:25
+716,Cocinar la cena,Preparar una cena saludable,True,2023-08-07 18:52:25
+717,Enviar correo a Juan,Preparar una cena saludable,True,2024-05-24 18:52:25
+718,Estudiar Angular,Revisar las últimas actualizaciones de Angular,False,2023-08-20 18:52:25
+719,Leer un libro,Leer al menos un capítulo del libro,True,2023-12-02 18:52:25
+720,Ir al supermercado,Programa una cita para el chequeo anual,True,2023-11-01 18:52:25
+721,Hacer ejercicio,Preparar una cena saludable,False,2023-08-27 18:52:25
+722,Estudiar Angular,Programa una cita para el chequeo anual,True,2023-06-27 18:52:25
+723,Llamar al médico,Revisar las últimas actualizaciones de Angular,False,2023-07-03 18:52:25
+724,Leer un libro,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-02-09 18:52:25
+725,Hacer ejercicio,Enviar un correo electrónico sobre el proyecto,True,2023-09-07 18:52:25
+726,Ir al supermercado,Preparar una cena saludable,False,2024-05-21 18:52:25
+727,Hacer ejercicio,Enviar un correo electrónico sobre el proyecto,True,2023-11-10 18:52:25
+728,Ir al supermercado,Compra los artículos de la lista,False,2023-07-08 18:52:25
+729,Hacer ejercicio,Programa una cita para el chequeo anual,True,2023-07-09 18:52:25
+730,Enviar correo a Juan,Pagar las facturas de servicios públicos,True,2023-12-04 18:52:25
+731,Revisar el coche,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-04-07 18:52:25
+732,Llamar al médico,Enviar un correo electrónico sobre el proyecto,False,2023-10-12 18:52:25
+733,Ir al supermercado,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-08-26 18:52:25
+734,Ir al supermercado,Compra los artículos de la lista,False,2023-08-01 18:52:25
+735,Estudiar Angular,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-10-16 18:52:25
+736,Llamar al médico,Leer al menos un capítulo del libro,False,2023-11-20 18:52:25
+737,Cocinar la cena,Enviar un correo electrónico sobre el proyecto,True,2024-01-05 18:52:25
+738,Leer un libro,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-06-19 18:52:25
+739,Ir al supermercado,Revisar las últimas actualizaciones de Angular,False,2023-08-01 18:52:25
+740,Ir al supermercado,Compra los artículos de la lista,False,2023-10-04 18:52:25
+741,Hacer ejercicio,Programa una cita para el chequeo anual,False,2024-04-30 18:52:25
+742,Ir al supermercado,Compra los artículos de la lista,False,2023-09-19 18:52:25
+743,Estudiar Angular,Revisar las últimas actualizaciones de Angular,False,2024-05-15 18:52:25
+744,Hacer ejercicio,Preparar una cena saludable,True,2023-07-14 18:52:25
+745,Revisar el coche,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-10-16 18:52:25
+746,Enviar correo a Juan,Revisar las últimas actualizaciones de Angular,True,2023-07-21 18:52:25
+747,Llamar al médico,Enviar un correo electrónico sobre el proyecto,False,2023-06-29 18:52:25
+748,Enviar correo a Juan,Preparar una cena saludable,True,2024-04-29 18:52:25
+749,Limpiar la casa,Programa una cita para el chequeo anual,True,2023-06-25 18:52:25
+750,Limpiar la casa,Revisar las últimas actualizaciones de Angular,False,2024-04-02 18:52:25
+751,Enviar correo a Juan,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-05-02 18:52:25
+752,Estudiar Angular,Leer al menos un capítulo del libro,True,2023-08-11 18:52:25
+753,Limpiar la casa,Llevar el coche al taller para revisión,False,2023-08-16 18:52:25
+754,Limpiar la casa,Programa una cita para el chequeo anual,False,2024-06-09 18:52:25
+755,Pagar las facturas,Leer al menos un capítulo del libro,False,2023-11-02 18:52:25
+756,Leer un libro,Pagar las facturas de servicios públicos,True,2023-10-04 18:52:25
+757,Revisar el coche,Compra los artículos de la lista,True,2024-03-17 18:52:25
+758,Estudiar Angular,Enviar un correo electrónico sobre el proyecto,True,2024-02-24 18:52:25
+759,Cocinar la cena,Compra los artículos de la lista,True,2023-07-04 18:52:25
+760,Llamar al médico,Revisar las últimas actualizaciones de Angular,False,2023-09-13 18:52:25
+761,Leer un libro,Programa una cita para el chequeo anual,False,2023-06-17 18:52:25
+762,Llamar al médico,Programa una cita para el chequeo anual,True,2023-07-26 18:52:25
+763,Hacer ejercicio,Leer al menos un capítulo del libro,False,2023-11-03 18:52:25
+764,Revisar el coche,Programa una cita para el chequeo anual,True,2023-09-05 18:52:25
+765,Ir al supermercado,Enviar un correo electrónico sobre el proyecto,True,2024-01-10 18:52:25
+766,Hacer ejercicio,Llevar el coche al taller para revisión,True,2024-05-21 18:52:25
+767,Estudiar Angular,Preparar una cena saludable,False,2023-07-23 18:52:25
+768,Hacer ejercicio,Revisar las últimas actualizaciones de Angular,False,2024-03-01 18:52:25
+769,Llamar al médico,Revisar las últimas actualizaciones de Angular,False,2024-04-19 18:52:25
+770,Hacer ejercicio,Llevar el coche al taller para revisión,False,2023-08-22 18:52:25
+771,Revisar el coche,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-07-16 18:52:25
+772,Leer un libro,Preparar una cena saludable,True,2024-05-19 18:52:25
+773,Ir al supermercado,Compra los artículos de la lista,False,2023-12-29 18:52:25
+774,Estudiar Angular,Enviar un correo electrónico sobre el proyecto,True,2024-02-07 18:52:25
+775,Ir al supermercado,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-08-29 18:52:25
+776,Enviar correo a Juan,Leer al menos un capítulo del libro,False,2024-04-09 18:52:25
+777,Estudiar Angular,Enviar un correo electrónico sobre el proyecto,False,2023-12-09 18:52:25
+778,Pagar las facturas,"Limpiar la sala, cocina y baño",True,2023-06-28 18:52:25
+779,Limpiar la casa,Llevar el coche al taller para revisión,False,2024-02-19 18:52:25
+780,Llamar al médico,Revisar las últimas actualizaciones de Angular,False,2024-02-21 18:52:25
+781,Estudiar Angular,Programa una cita para el chequeo anual,False,2024-05-13 18:52:25
+782,Cocinar la cena,Enviar un correo electrónico sobre el proyecto,True,2023-10-19 18:52:25
+783,Llamar al médico,Compra los artículos de la lista,False,2023-12-06 18:52:25
+784,Estudiar Angular,Compra los artículos de la lista,True,2023-11-08 18:52:25
+785,Leer un libro,Programa una cita para el chequeo anual,False,2024-03-22 18:52:25
+786,Cocinar la cena,Compra los artículos de la lista,True,2024-05-19 18:52:25
+787,Enviar correo a Juan,"Limpiar la sala, cocina y baño",True,2023-07-01 18:52:25
+788,Enviar correo a Juan,"Limpiar la sala, cocina y baño",False,2023-12-30 18:52:25
+789,Hacer ejercicio,Revisar las últimas actualizaciones de Angular,False,2024-03-18 18:52:25
+790,Estudiar Angular,Programa una cita para el chequeo anual,True,2023-07-20 18:52:25
+791,Enviar correo a Juan,Pagar las facturas de servicios públicos,True,2023-06-22 18:52:25
+792,Cocinar la cena,Revisar las últimas actualizaciones de Angular,False,2023-12-08 18:52:25
+793,Cocinar la cena,Llevar el coche al taller para revisión,True,2023-09-29 18:52:25
+794,Hacer ejercicio,Revisar las últimas actualizaciones de Angular,True,2023-09-17 18:52:25
+795,Leer un libro,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-10-09 18:52:25
+796,Limpiar la casa,"Limpiar la sala, cocina y baño",True,2023-09-13 18:52:25
+797,Revisar el coche,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-08-08 18:52:25
+798,Leer un libro,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-08-25 18:52:25
+799,Hacer ejercicio,Llevar el coche al taller para revisión,True,2024-04-14 18:52:25
+800,Hacer ejercicio,Enviar un correo electrónico sobre el proyecto,True,2023-12-24 18:52:25
+801,Leer un libro,Preparar una cena saludable,True,2023-11-18 18:52:25
+802,Enviar correo a Juan,Programa una cita para el chequeo anual,False,2023-08-22 18:52:25
+803,Revisar el coche,Pagar las facturas de servicios públicos,False,2023-11-01 18:52:25
+804,Estudiar Angular,Preparar una cena saludable,True,2024-06-04 18:52:25
+805,Cocinar la cena,Pagar las facturas de servicios públicos,False,2024-05-31 18:52:25
+806,Revisar el coche,Programa una cita para el chequeo anual,False,2023-12-08 18:52:25
+807,Ir al supermercado,Revisar las últimas actualizaciones de Angular,False,2023-12-23 18:52:25
+808,Limpiar la casa,Pagar las facturas de servicios públicos,True,2023-10-07 18:52:25
+809,Enviar correo a Juan,Preparar una cena saludable,False,2023-08-30 18:52:25
+810,Cocinar la cena,Preparar una cena saludable,True,2023-11-06 18:52:25
+811,Pagar las facturas,Leer al menos un capítulo del libro,False,2023-12-27 18:52:25
+812,Ir al supermercado,Llevar el coche al taller para revisión,False,2023-06-20 18:52:25
+813,Pagar las facturas,Revisar las últimas actualizaciones de Angular,True,2023-12-16 18:52:25
+814,Llamar al médico,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-11-28 18:52:25
+815,Revisar el coche,Programa una cita para el chequeo anual,True,2024-02-01 18:52:25
+816,Llamar al médico,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-02-16 18:52:25
+817,Enviar correo a Juan,Revisar las últimas actualizaciones de Angular,True,2023-12-23 18:52:25
+818,Leer un libro,"Limpiar la sala, cocina y baño",True,2023-11-30 18:52:25
+819,Limpiar la casa,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-08-22 18:52:25
+820,Enviar correo a Juan,Leer al menos un capítulo del libro,False,2023-07-11 18:52:25
+821,Cocinar la cena,Leer al menos un capítulo del libro,False,2024-01-27 18:52:25
+822,Limpiar la casa,"Limpiar la sala, cocina y baño",True,2023-12-17 18:52:25
+823,Llamar al médico,Enviar un correo electrónico sobre el proyecto,False,2024-06-07 18:52:25
+824,Leer un libro,Enviar un correo electrónico sobre el proyecto,True,2024-04-04 18:52:25
+825,Pagar las facturas,Pagar las facturas de servicios públicos,True,2023-07-25 18:52:25
+826,Leer un libro,Pagar las facturas de servicios públicos,False,2024-03-08 18:52:25
+827,Hacer ejercicio,Llevar el coche al taller para revisión,False,2024-01-23 18:52:25
+828,Estudiar Angular,Llevar el coche al taller para revisión,False,2023-11-25 18:52:25
+829,Leer un libro,Revisar las últimas actualizaciones de Angular,True,2023-12-04 18:52:25
+830,Llamar al médico,Leer al menos un capítulo del libro,False,2023-11-08 18:52:25
+831,Revisar el coche,Llevar el coche al taller para revisión,False,2024-03-30 18:52:25
+832,Enviar correo a Juan,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-11-26 18:52:25
+833,Limpiar la casa,Leer al menos un capítulo del libro,True,2023-11-17 18:52:25
+834,Llamar al médico,Pagar las facturas de servicios públicos,False,2023-10-12 18:52:25
+835,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-08-30 18:52:25
+836,Hacer ejercicio,Compra los artículos de la lista,False,2023-07-16 18:52:25
+837,Ir al supermercado,Enviar un correo electrónico sobre el proyecto,False,2023-08-21 18:52:25
+838,Revisar el coche,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-09-24 18:52:25
+839,Pagar las facturas,Llevar el coche al taller para revisión,False,2023-09-12 18:52:25
+840,Revisar el coche,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-12-28 18:52:25
+841,Pagar las facturas,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-09-02 18:52:25
+842,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,True,2023-10-09 18:52:25
+843,Leer un libro,Revisar las últimas actualizaciones de Angular,False,2023-08-06 18:52:25
+844,Ir al supermercado,Compra los artículos de la lista,True,2024-01-23 18:52:25
+845,Estudiar Angular,Programa una cita para el chequeo anual,True,2023-06-17 18:52:25
+846,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-11-15 18:52:25
+847,Hacer ejercicio,Enviar un correo electrónico sobre el proyecto,True,2024-03-09 18:52:25
+848,Hacer ejercicio,Preparar una cena saludable,False,2024-03-23 18:52:25
+849,Estudiar Angular,Pagar las facturas de servicios públicos,True,2024-03-15 18:52:25
+850,Cocinar la cena,Revisar las últimas actualizaciones de Angular,True,2023-09-19 18:52:25
+851,Enviar correo a Juan,Preparar una cena saludable,False,2024-03-16 18:52:25
+852,Hacer ejercicio,Enviar un correo electrónico sobre el proyecto,False,2023-12-13 18:52:25
+853,Pagar las facturas,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-03-08 18:52:25
+854,Ir al supermercado,Programa una cita para el chequeo anual,True,2023-09-15 18:52:25
+855,Ir al supermercado,Leer al menos un capítulo del libro,False,2024-01-26 18:52:25
+856,Cocinar la cena,Preparar una cena saludable,False,2023-07-11 18:52:25
+857,Ir al supermercado,Programa una cita para el chequeo anual,False,2024-04-05 18:52:25
+858,Revisar el coche,Leer al menos un capítulo del libro,False,2023-11-23 18:52:25
+859,Estudiar Angular,Leer al menos un capítulo del libro,False,2024-05-13 18:52:25
+860,Hacer ejercicio,Pagar las facturas de servicios públicos,False,2024-02-17 18:52:25
+861,Pagar las facturas,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-08-19 18:52:25
+862,Llamar al médico,"Limpiar la sala, cocina y baño",False,2024-05-23 18:52:25
+863,Leer un libro,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-02-11 18:52:25
+864,Estudiar Angular,Programa una cita para el chequeo anual,False,2024-02-21 18:52:25
+865,Enviar correo a Juan,Enviar un correo electrónico sobre el proyecto,False,2024-03-26 18:52:25
+866,Pagar las facturas,Leer al menos un capítulo del libro,False,2024-04-09 18:52:25
+867,Enviar correo a Juan,Preparar una cena saludable,False,2024-02-25 18:52:25
+868,Revisar el coche,Leer al menos un capítulo del libro,False,2023-11-20 18:52:25
+869,Estudiar Angular,Leer al menos un capítulo del libro,True,2024-04-22 18:52:25
+870,Cocinar la cena,Programa una cita para el chequeo anual,False,2024-04-17 18:52:25
+871,Ir al supermercado,Revisar las últimas actualizaciones de Angular,False,2024-05-07 18:52:25
+872,Llamar al médico,"Limpiar la sala, cocina y baño",True,2023-06-28 18:52:25
+873,Hacer ejercicio,Programa una cita para el chequeo anual,False,2023-10-22 18:52:25
+874,Cocinar la cena,Programa una cita para el chequeo anual,True,2023-12-04 18:52:25
+875,Leer un libro,Compra los artículos de la lista,False,2024-06-01 18:52:25
+876,Hacer ejercicio,Pagar las facturas de servicios públicos,False,2024-06-07 18:52:25
+877,Estudiar Angular,Llevar el coche al taller para revisión,True,2023-10-05 18:52:25
+878,Revisar el coche,Leer al menos un capítulo del libro,False,2024-01-11 18:52:25
+879,Limpiar la casa,"Limpiar la sala, cocina y baño",True,2023-10-30 18:52:25
+880,Enviar correo a Juan,Leer al menos un capítulo del libro,True,2023-09-14 18:52:25
+881,Enviar correo a Juan,Llevar el coche al taller para revisión,True,2023-10-28 18:52:25
+882,Enviar correo a Juan,Preparar una cena saludable,False,2024-01-22 18:52:25
+883,Llamar al médico,Revisar las últimas actualizaciones de Angular,False,2023-07-29 18:52:25
+884,Llamar al médico,Programa una cita para el chequeo anual,True,2024-03-12 18:52:25
+885,Revisar el coche,Pagar las facturas de servicios públicos,True,2023-07-22 18:52:25
+886,Estudiar Angular,Revisar las últimas actualizaciones de Angular,True,2024-01-17 18:52:25
+887,Pagar las facturas,"Limpiar la sala, cocina y baño",False,2024-04-11 18:52:25
+888,Ir al supermercado,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-08-23 18:52:25
+889,Limpiar la casa,Compra los artículos de la lista,False,2023-12-10 18:52:25
+890,Pagar las facturas,Programa una cita para el chequeo anual,False,2023-11-05 18:52:25
+891,Limpiar la casa,Pagar las facturas de servicios públicos,True,2023-11-08 18:52:25
+892,Leer un libro,Programa una cita para el chequeo anual,False,2024-05-15 18:52:25
+893,Revisar el coche,"Limpiar la sala, cocina y baño",False,2024-05-09 18:52:25
+894,Llamar al médico,Leer al menos un capítulo del libro,True,2024-05-18 18:52:25
+895,Enviar correo a Juan,Programa una cita para el chequeo anual,False,2023-08-02 18:52:25
+896,Hacer ejercicio,Pagar las facturas de servicios públicos,False,2024-01-03 18:52:25
+897,Ir al supermercado,Llevar el coche al taller para revisión,False,2024-02-03 18:52:25
+898,Leer un libro,Pagar las facturas de servicios públicos,False,2023-10-17 18:52:25
+899,Hacer ejercicio,Compra los artículos de la lista,False,2023-11-06 18:52:25
+900,Hacer ejercicio,Pagar las facturas de servicios públicos,False,2023-08-28 18:52:25
+901,Enviar correo a Juan,Compra los artículos de la lista,True,2023-12-03 18:52:25
+902,Enviar correo a Juan,Preparar una cena saludable,False,2023-11-22 18:52:25
+903,Llamar al médico,Revisar las últimas actualizaciones de Angular,True,2024-04-14 18:52:25
+904,Llamar al médico,Compra los artículos de la lista,False,2024-03-04 18:52:25
+905,Llamar al médico,Compra los artículos de la lista,True,2024-02-05 18:52:25
+906,Estudiar Angular,Programa una cita para el chequeo anual,False,2023-12-29 18:52:25
+907,Leer un libro,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-03-21 18:52:25
+908,Llamar al médico,Llevar el coche al taller para revisión,True,2023-10-30 18:52:25
+909,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-07-23 18:52:25
+910,Revisar el coche,Compra los artículos de la lista,False,2024-03-03 18:52:25
+911,Llamar al médico,Pagar las facturas de servicios públicos,False,2024-01-27 18:52:25
+912,Pagar las facturas,Pagar las facturas de servicios públicos,False,2024-04-01 18:52:25
+913,Hacer ejercicio,Programa una cita para el chequeo anual,True,2024-05-16 18:52:25
+914,Estudiar Angular,Programa una cita para el chequeo anual,False,2024-03-25 18:52:25
+915,Leer un libro,Enviar un correo electrónico sobre el proyecto,False,2024-04-08 18:52:25
+916,Ir al supermercado,Enviar un correo electrónico sobre el proyecto,True,2023-07-05 18:52:25
+917,Llamar al médico,"Limpiar la sala, cocina y baño",False,2023-09-14 18:52:25
+918,Estudiar Angular,Preparar una cena saludable,False,2024-04-19 18:52:25
+919,Limpiar la casa,Enviar un correo electrónico sobre el proyecto,True,2023-06-15 18:52:25
+920,Ir al supermercado,Revisar las últimas actualizaciones de Angular,True,2023-10-20 18:52:25
+921,Cocinar la cena,"Limpiar la sala, cocina y baño",True,2024-03-22 18:52:25
+922,Ir al supermercado,Llevar el coche al taller para revisión,False,2024-04-17 18:52:25
+923,Pagar las facturas,Pagar las facturas de servicios públicos,False,2024-03-18 18:52:25
+924,Enviar correo a Juan,Leer al menos un capítulo del libro,False,2024-05-17 18:52:25
+925,Revisar el coche,Preparar una cena saludable,True,2023-08-12 18:52:25
+926,Pagar las facturas,Pagar las facturas de servicios públicos,False,2024-01-29 18:52:25
+927,Ir al supermercado,Programa una cita para el chequeo anual,True,2023-10-24 18:52:25
+928,Limpiar la casa,Programa una cita para el chequeo anual,False,2023-12-27 18:52:25
+929,Leer un libro,Programa una cita para el chequeo anual,False,2023-12-07 18:52:25
+930,Leer un libro,"Limpiar la sala, cocina y baño",False,2024-04-21 18:52:25
+931,Estudiar Angular,Preparar una cena saludable,False,2023-09-18 18:52:25
+932,Estudiar Angular,Enviar un correo electrónico sobre el proyecto,False,2023-07-10 18:52:25
+933,Limpiar la casa,Compra los artículos de la lista,True,2024-02-12 18:52:25
+934,Leer un libro,Leer al menos un capítulo del libro,True,2024-05-09 18:52:25
+935,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2023-11-16 18:52:25
+936,Cocinar la cena,Llevar el coche al taller para revisión,False,2023-10-13 18:52:25
+937,Hacer ejercicio,Programa una cita para el chequeo anual,False,2023-11-15 18:52:25
+938,Enviar correo a Juan,Pagar las facturas de servicios públicos,False,2024-05-17 18:52:25
+939,Enviar correo a Juan,Revisar las últimas actualizaciones de Angular,False,2023-08-31 18:52:25
+940,Cocinar la cena,Llevar el coche al taller para revisión,False,2024-01-17 18:52:25
+941,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2024-05-29 18:52:25
+942,Leer un libro,Compra los artículos de la lista,True,2023-07-17 18:52:25
+943,Enviar correo a Juan,Compra los artículos de la lista,True,2023-07-20 18:52:25
+944,Pagar las facturas,Llevar el coche al taller para revisión,False,2023-06-21 18:52:25
+945,Enviar correo a Juan,Leer al menos un capítulo del libro,True,2023-12-18 18:52:25
+946,Cocinar la cena,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-08-23 18:52:25
+947,Pagar las facturas,Leer al menos un capítulo del libro,True,2024-03-30 18:52:25
+948,Ir al supermercado,Revisar las últimas actualizaciones de Angular,False,2023-10-15 18:52:25
+949,Limpiar la casa,Programa una cita para el chequeo anual,True,2024-05-20 18:52:25
+950,Llamar al médico,Preparar una cena saludable,True,2023-09-22 18:52:25
+951,Cocinar la cena,Programa una cita para el chequeo anual,True,2023-12-16 18:52:25
+952,Enviar correo a Juan,Pagar las facturas de servicios públicos,True,2023-08-30 18:52:25
+953,Cocinar la cena,Preparar una cena saludable,False,2024-01-22 18:52:25
+954,Llamar al médico,Llevar el coche al taller para revisión,False,2023-09-21 18:52:25
+955,Limpiar la casa,Llevar el coche al taller para revisión,False,2023-12-29 18:52:25
+956,Hacer ejercicio,Preparar una cena saludable,False,2023-12-27 18:52:25
+957,Hacer ejercicio,Llevar el coche al taller para revisión,True,2024-04-08 18:52:25
+958,Limpiar la casa,Enviar un correo electrónico sobre el proyecto,False,2023-08-31 18:52:25
+959,Enviar correo a Juan,Revisar las últimas actualizaciones de Angular,False,2024-06-11 18:52:25
+960,Enviar correo a Juan,Leer al menos un capítulo del libro,True,2024-05-31 18:52:25
+961,Enviar correo a Juan,Leer al menos un capítulo del libro,False,2024-03-22 18:52:25
+962,Hacer ejercicio,"Limpiar la sala, cocina y baño",False,2023-09-20 18:52:25
+963,Enviar correo a Juan,Leer al menos un capítulo del libro,False,2023-07-24 18:52:25
+964,Llamar al médico,Compra los artículos de la lista,False,2023-07-27 18:52:25
+965,Leer un libro,Leer al menos un capítulo del libro,False,2023-12-12 18:52:25
+966,Pagar las facturas,Compra los artículos de la lista,True,2023-08-23 18:52:25
+967,Enviar correo a Juan,Leer al menos un capítulo del libro,True,2023-06-23 18:52:25
+968,Pagar las facturas,"Limpiar la sala, cocina y baño",False,2024-04-29 18:52:25
+969,Enviar correo a Juan,Programa una cita para el chequeo anual,True,2023-10-04 18:52:25
+970,Cocinar la cena,Compra los artículos de la lista,False,2023-11-20 18:52:25
+971,Cocinar la cena,Programa una cita para el chequeo anual,True,2023-08-01 18:52:25
+972,Estudiar Angular,Leer al menos un capítulo del libro,False,2023-10-14 18:52:25
+973,Revisar el coche,Pagar las facturas de servicios públicos,False,2023-08-24 18:52:25
+974,Pagar las facturas,Preparar una cena saludable,True,2023-11-10 18:52:25
+975,Revisar el coche,Pagar las facturas de servicios públicos,True,2024-05-19 18:52:25
+976,Estudiar Angular,Llevar el coche al taller para revisión,True,2024-01-18 18:52:25
+977,Cocinar la cena,Llevar el coche al taller para revisión,True,2023-12-07 18:52:25
+978,Llamar al médico,Enviar un correo electrónico sobre el proyecto,True,2023-08-27 18:52:25
+979,Llamar al médico,Pagar las facturas de servicios públicos,True,2024-03-21 18:52:25
+980,Leer un libro,Enviar un correo electrónico sobre el proyecto,True,2023-10-21 18:52:25
+981,Estudiar Angular,Revisar las últimas actualizaciones de Angular,False,2023-06-29 18:52:25
+982,Llamar al médico,"Limpiar la sala, cocina y baño",True,2023-08-11 18:52:25
+983,Revisar el coche,Ir al gimnasio o hacer una rutina de ejercicios en casa,False,2023-07-01 18:52:25
+984,Cocinar la cena,Compra los artículos de la lista,True,2023-12-08 18:52:25
+985,Revisar el coche,Programa una cita para el chequeo anual,False,2024-06-06 18:52:25
+986,Ir al supermercado,Preparar una cena saludable,False,2023-09-27 18:52:25
+987,Ir al supermercado,Programa una cita para el chequeo anual,True,2024-01-12 18:52:25
+988,Pagar las facturas,Programa una cita para el chequeo anual,True,2023-06-14 18:52:25
+989,Cocinar la cena,Revisar las últimas actualizaciones de Angular,True,2023-12-26 18:52:25
+990,Revisar el coche,Pagar las facturas de servicios públicos,False,2023-09-03 18:52:25
+991,Ir al supermercado,Leer al menos un capítulo del libro,True,2023-08-20 18:52:25
+992,Llamar al médico,Llevar el coche al taller para revisión,True,2024-06-09 18:52:25
+993,Pagar las facturas,Leer al menos un capítulo del libro,False,2023-11-05 18:52:25
+994,Hacer ejercicio,Programa una cita para el chequeo anual,False,2024-04-11 18:52:25
+995,Llamar al médico,Pagar las facturas de servicios públicos,True,2023-11-30 18:52:25
+996,Pagar las facturas,Pagar las facturas de servicios públicos,True,2023-12-06 18:52:25
+997,Revisar el coche,Preparar una cena saludable,False,2024-04-23 18:52:25
+998,Enviar correo a Juan,Ir al gimnasio o hacer una rutina de ejercicios en casa,True,2024-02-22 18:52:25
+999,Llamar al médico,Leer al menos un capítulo del libro,False,2024-03-12 18:52:25
+1000,Ir al supermercado,Llevar el coche al taller para revisión,False,2023-11-22 18:52:25
