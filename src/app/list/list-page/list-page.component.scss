@@ -1,0 +1,13 @@
+.example-viewport {
+  height: 400px;
+  width: 100%;
+  border: 1px solid #ccc;
+}
+
+.example-item {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  border-bottom: 1px solid #ccc;
+  padding: 8px;
+}

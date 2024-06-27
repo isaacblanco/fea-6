@@ -1,1 +1,28 @@
-<p>list-page works!</p>
+<h1>Students List</h1>
+<div>Total: {{ students.length }}</div>
+
+<cdk-virtual-scroll-viewport itemSize="50" class="example-viewport">
+  <div
+    *cdkVirtualFor="
+      let student of students;
+      let i = index;
+      trackBy: trackByStudent
+    "
+    class="example-item"
+  >
+    <div>{{ i + 1 }}</div>
+    <div>{{ student.Nombre }}</div>
+    <div>{{ student.Apellidos }}</div>
+    <div>{{ student.Sexo }}</div>
+    <div>{{ student.Nota_Final }}</div>
+    <div>{{ student.Faltas_Asistencia }}</div>
+    <div>
+      <span *ngIf="student.Nota_Final < 5">Suspendido</span>
+      <span *ngIf="student.Nota_Final >= 5">Aprobado</span>
+    </div>
+  </div>
+</cdk-virtual-scroll-viewport>
+
+<ng-template #noStudents>
+  <p>No hay estudiantes en la lista.</p>
+</ng-template>
