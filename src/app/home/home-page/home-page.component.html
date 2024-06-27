@@ -1,1 +1,36 @@
-<p>home-page works!</p>
+<h1>Students</h1>
+<div>Total: {{ students.length }}</div>
+<div *ngIf="students.length > 0; else noStudents">
+  <table>
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Nombre</th>
+        <th>Apellidos</th>
+        <th>Sexo</th>
+        <th>Nota</th>
+        <th>Ausencias</th>
+        <th>Estado</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        *ngFor="let student of students; let i = index; trackBy: trackByStudent"
+      >
+        <td>{{ i + 1 }}</td>
+        <td>{{ student.Nombre }}</td>
+        <td>{{ student.Apellidos }}</td>
+        <td>{{ student.Sexo }}</td>
+        <td>{{ student.Nota_Final }}</td>
+        <td>{{ student.Faltas_Asistencia }}</td>
+        <td>
+          <span *ngIf="student.Nota_Final < 5">Suspendido</span>
+          <span *ngIf="student.Nota_Final >= 5">Aprobado</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<ng-template #noStudents>
+  <p>No hay estudiantes en la lista.</p>
+</ng-template>
