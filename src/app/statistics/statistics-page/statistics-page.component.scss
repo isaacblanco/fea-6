@@ -1,0 +1,9 @@
+.statistics-container {
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+.statistics-container > * {
+  height: 500px;
+}

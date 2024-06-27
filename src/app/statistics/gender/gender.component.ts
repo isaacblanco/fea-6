@@ -1,12 +1,14 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from "@angular/core";
 
 @Component({
-  selector: 'app-gender',
+  selector: "app-gender",
   standalone: true,
   imports: [],
-  templateUrl: './gender.component.html',
-  styleUrl: './gender.component.scss'
+  templateUrl: "./gender.component.html",
+  styleUrls: ["./gender.component.scss"],
 })
-export class GenderComponent {
+export class GenderComponent implements OnInit {
+  constructor() {}
 
+  ngOnInit(): void {}
 }

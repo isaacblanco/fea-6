@@ -1,12 +1,14 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from "@angular/core";
 
 @Component({
-  selector: 'app-general-results',
+  selector: "app-general-results",
   standalone: true,
   imports: [],
-  templateUrl: './general-results.component.html',
-  styleUrl: './general-results.component.scss'
+  templateUrl: "./general-results.component.html",
+  styleUrls: ["./general-results.component.scss"],
 })
-export class GeneralResultsComponent {
+export class GeneralResultsComponent implements OnInit {
+  constructor() {}
 
+  ngOnInit(): void {}
 }
