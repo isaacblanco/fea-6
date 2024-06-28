@@ -62,9 +62,9 @@ Se ha incluido ajustes de loading para mejorar la espera.
 changeDetection: ChangeDetectionStrategy.OnPush,
 ```
 
-**defer block**
+**defer block** y **defect trigger**
 
-**defect trigger**
+No aplicados
 
 ## Información por defecto
 
