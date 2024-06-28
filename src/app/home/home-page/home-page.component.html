@@ -1,7 +1,7 @@
 <h1>Students</h1>
 <div>Total: {{ students.length }}</div>
 <div *ngIf="students.length > 0; else noStudents">
-  <table>
+  <table class="students-table">
     <thead>
       <tr>
         <th>#</th>
@@ -16,6 +16,10 @@
     <tbody>
       <tr
         *ngFor="let student of students; let i = index; trackBy: trackByStudent"
+        [ngClass]="{
+          aprobado: student.Nota_Final >= 5,
+          suspendido: student.Nota_Final < 5
+        }"
       >
         <td>{{ i + 1 }}</td>
         <td>{{ student.Nombre }}</td>
@@ -24,8 +28,14 @@
         <td>{{ student.Nota_Final }}</td>
         <td>{{ student.Faltas_Asistencia }}</td>
         <td>
-          <span *ngIf="student.Nota_Final < 5">Suspendido</span>
-          <span *ngIf="student.Nota_Final >= 5">Aprobado</span>
+          <span
+            [ngClass]="{
+              aprobado: student.Nota_Final >= 5,
+              suspendido: student.Nota_Final < 5
+            }"
+          >
+            {{ student.Nota_Final >= 5 ? "Aprobado" : "Suspendido" }}
+          </span>
         </td>
       </tr>
     </tbody>

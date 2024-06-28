@@ -9,6 +9,10 @@
       trackBy: trackByStudent
     "
     class="example-item"
+    [ngClass]="{
+      aprobado: student.Nota_Final >= 5,
+      suspendido: student.Nota_Final < 5
+    }"
   >
     <div>{{ i + 1 }}</div>
     <div>{{ student.Nombre }}</div>

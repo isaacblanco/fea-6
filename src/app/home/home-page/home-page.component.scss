@@ -1,0 +1,80 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+}
+
+.students-table {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.students-table thead {
+  background-color: #34495e;
+  color: white;
+}
+
+.students-table th,
+.students-table td {
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.students-table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.students-table tbody tr:hover {
+  background-color: #e1eaff;
+}
+
+.students-table tbody tr.aprobado {
+  background-color: white;
+}
+
+.students-table tbody tr.suspendido {
+  background-color: #f2f2f2;
+}
+
+.students-table tbody tr td span {
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.students-table tbody tr td span.aprobado {
+  background-color: #2ecc71;
+  color: white;
+}
+
+.students-table tbody tr td span.suspendido {
+  background-color: #e74c3c;
+  color: white;
+}
+
+.students-table tbody tr td:first-child {
+  background-color: #999999;
+  color: white;
+}
+
+.students-table th {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+div {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+p {
+  text-align: center;
+  color: #777;
+}
