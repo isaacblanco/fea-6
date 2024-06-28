@@ -11,7 +11,7 @@ import { CsvService } from "src/app/services/csv.service";
   styleUrls: ["./resume-data.component.scss"],
 })
 export class ResumeDataComponent implements OnInit {
-  @ViewChild("chartCanvas", { static: true })
+  @ViewChild("chartTotales", { static: true })
   chartCanvas!: ElementRef<HTMLCanvasElement>;
   chart?: Chart<"bar">;
   totalStudents: number = 0;
@@ -44,14 +44,14 @@ export class ResumeDataComponent implements OnInit {
               label: "Resultados",
               data: [this.totalStudents, this.totalApproved, this.totalFailed],
               backgroundColor: [
-                "rgba(75, 192, 192, 0.2)",
-                "rgba(54, 162, 235, 0.2)",
-                "rgba(255, 99, 132, 0.2)",
+                "rgba(255, 200, 33, 0.2)",
+                "rgba(54, 235, 162, 0.2)",
+                "rgba(255, 0, 168, 0.2)",
               ],
               borderColor: [
-                "rgba(75, 192, 192, 1)",
-                "rgba(54, 162, 235, 1)",
-                "rgba(255, 99, 132, 1)",
+                "rgba(255, 200, 33, 1)",
+                "rgba(54, 235, 162, 1)",
+                "rgba(255, 0, 168, 1)",
               ],
               borderWidth: 1,
             },

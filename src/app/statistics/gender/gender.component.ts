@@ -54,14 +54,14 @@ export class GenderComponent implements OnInit {
             {
               data: genderData.data,
               backgroundColor: [
-                "rgba(255, 99, 132, 0.8)",
-                "rgba(54, 162, 235, 0.8)",
-                "rgba(255, 206, 86, 0.8)",
+                "rgba(54, 162, 235, 0.5)",
+                "rgba(255, 0, 168, 0.5)",
+                "rgba(255, 206, 33, 0.5)",
               ],
               borderColor: [
-                "rgba(255, 99, 132, 1)",
                 "rgba(54, 162, 235, 1)",
-                "rgba(255, 206, 86, 1)",
+                "rgba(255, 0, 168, 1)",
+                "rgba(255, 206, 33, 1)",
               ],
               borderWidth: 1,
             },
