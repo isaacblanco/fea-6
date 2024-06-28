@@ -1,46 +1,64 @@
 <h1>Students</h1>
 <div>Total: {{ students.length }}</div>
-<div *ngIf="students.length > 0; else noStudents">
-  <table class="students-table">
-    <thead>
-      <tr>
-        <th>#</th>
-        <th>Nombre</th>
-        <th>Apellidos</th>
-        <th>Sexo</th>
-        <th>Nota</th>
-        <th>Ausencias</th>
-        <th>Estado</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr
-        *ngFor="let student of students; let i = index; trackBy: trackByStudent"
-        [ngClass]="{
-          aprobado: student.Nota_Final >= 5,
-          suspendido: student.Nota_Final < 5
-        }"
-      >
-        <td>{{ i + 1 }}</td>
-        <td>{{ student.Nombre }}</td>
-        <td>{{ student.Apellidos }}</td>
-        <td>{{ student.Sexo }}</td>
-        <td>{{ student.Nota_Final }}</td>
-        <td>{{ student.Faltas_Asistencia }}</td>
-        <td>
-          <span
+
+<ng-container *ngIf="isLoading; else contentTemplate">
+  <p>Loading...</p>
+</ng-container>
+
+<ng-template #contentTemplate>
+  <ng-container *ngIf="!hasError; else errorTemplate">
+    <ng-container *ngIf="students.length > 0; else noStudentsTemplate">
+      <table class="students-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Nombre</th>
+            <th>Apellidos</th>
+            <th>Sexo</th>
+            <th>Nota</th>
+            <th>Ausencias</th>
+            <th>Estado</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr
+            *ngFor="
+              let student of students;
+              let i = index;
+              trackBy: trackByStudent
+            "
             [ngClass]="{
               aprobado: student.Nota_Final >= 5,
               suspendido: student.Nota_Final < 5
             }"
           >
-            {{ student.Nota_Final >= 5 ? "Aprobado" : "Suspendido" }}
-          </span>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<ng-template #noStudents>
+            <td>{{ i + 1 }}</td>
+            <td>{{ student.Nombre }}</td>
+            <td>{{ student.Apellidos }}</td>
+            <td>{{ student.Sexo }}</td>
+            <td>{{ student.Nota_Final }}</td>
+            <td>{{ student.Faltas_Asistencia }}</td>
+            <td>
+              <span
+                [ngClass]="{
+                  aprobado: student.Nota_Final >= 5,
+                  suspendido: student.Nota_Final < 5
+                }"
+              >
+                {{ student.Nota_Final >= 5 ? "Aprobado" : "Suspendido" }}
+              </span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </ng-container>
+  </ng-container>
+</ng-template>
+
+<ng-template #noStudentsTemplate>
   <p>No hay estudiantes en la lista.</p>
+</ng-template>
+
+<ng-template #errorTemplate>
+  <p>Error fetching students.</p>
 </ng-template>

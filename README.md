@@ -4,7 +4,19 @@ Mejoras sugeridas:
 
 ## Optimizaciónes
 
-**nfgor + trackby** en HOME
+- lazy loading
+- ngfor + trackby
+- virtual scrolling
+- control flow
+- changedetection on push
+- defer block
+- defect trigger
+
+**lazy loading (carga diferida)**
+
+Ver app-routing.module.ts
+
+**nfgor + trackby** en HOME y List
 
 ```javascript
 *ngFor="let student of students; let i = index; trackBy: trackByStudent"
@@ -12,7 +24,47 @@ Mejoras sugeridas:
 trackByStudent(index: number, student: StudentDTO): string {
     return student.ID_Alumno;
   }
+
+    *cdkVirtualFor="
+      let student of students;
+      let i = index;
+      trackBy: trackByStudent
+    "
 ```
+
+**virtual scrolling**
+
+Uso en list
+
+```html
+<cdk-virtual-scroll-viewport itemSize="50" class="example-viewport">
+  <div
+    *cdkVirtualFor="
+      let student of students;
+      let i = index;
+      trackBy: trackByStudent
+    "
+```
+
+**control flow**
+
+Un ejemplo de alternativa para el if
+
+```
+<div *ngIf="students.length > 0; else noStudents">
+```
+
+Se ha incluido ajustes de loading para mejorar la espera.
+
+**chagedetection on push** aplicado a las estadísticas
+
+```javascript
+changeDetection: ChangeDetectionStrategy.OnPush,
+```
+
+**defer block**
+
+**defect trigger**
 
 ## Información por defecto
 

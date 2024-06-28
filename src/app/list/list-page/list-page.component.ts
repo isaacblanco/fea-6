@@ -9,6 +9,8 @@ import { CsvService } from "src/app/services/csv.service";
 })
 export class ListPageComponent implements OnInit {
   students: StudentDTO[] = [];
+  isLoading = true;
+  hasError = false;
 
   constructor(private csvService: CsvService) {}
 
@@ -16,9 +18,13 @@ export class ListPageComponent implements OnInit {
     this.csvService.getStudents().subscribe({
       next: (students) => {
         this.students = students;
-        console.log(this.students);
+        this.isLoading = false;
       },
-      error: (error) => console.error("Error fetching students:", error),
+      error: (error) => {
+        console.error("Error fetching students:", error);
+        this.hasError = true;
+        this.isLoading = false;
+      },
     });
   }
 
